@@ -6,7 +6,7 @@ Contribution and suggestions are welcome! Simply
 
 1. [Fork this repository](https://help.github.com/articles/fork-a-repo/)
 2. Make a change to `README.md`. You can use [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/)
-3. [Submit a pull request](https://help.github.com/articles/creating-a-pull-request/). At best, select a useful title (i.e. avoid pull requests with `Update readme.md` as a title).
+3. [Submit a pull request](https://help.github.com/articles/creating-a-pull-request/). At best, select a useful title (i.e. avoid pull requests with `Update README.md` as a title).
 
 Please ensure your pull request adheres to the following guidelines:
 
