@@ -39,10 +39,12 @@ A curated list of software and resources for exploring and visualizing (browsing
 - [pRolocGUI](http://bioconductor.org/packages/release/bioc/html/pRolocGUI.html) (for proteomics)
 - [Reptilian pallium](https://public.brain.mpg.de/shiny/apps/SingleCellTranscriptomics/) More exotic species: https://brain.mpg.de/research/laurent-department/software-techniques.html
 - [scClustViz](https://baderlab.github.io/scClustViz/) - focused on exploring clustering results, paper here: https://f1000research.com/articles/7-1522/v2
+- [scSVA](https://github.com/klarman-cell-observatory/scSVA), single-cell Scalable Visualization and Analytics
 - [Seattle Organismal Molecular Atlases](http://atlas.gs.washington.edu/hub/)
 - [shinyMethyl](https://www.bioconductor.org/packages/release/bioc/html/shinyMethyl.html) (for methylation)
 - [Single Cell Portal](https://portals.broadinstitute.org/single_cell) at the Broad Institute; example here: https://portals.broadinstitute.org/single_cell/study/SCP43/atlas-of-human-blood-dendritic-cells-and-monocytes#study-visualize - somehow takes very long to load?
 - [TCGABrowser](http://tcgabrowser.ethz.ch:3838/PROD/)
+- [WIlsON](https://cran.r-project.org/web/packages/wilson/), described in https://academic.oup.com/bioinformatics/article/35/6/1055/5078467; demo here http://loosolab.mpi-bn.mpg.de
 - [Xena Browser](https://xenabrowser.net) ucsc/xena
 - [Zebrafish single cell development atlas](https://kleintools.hms.harvard.edu/paper_websites/wagner_zebrafish_timecourse2018/mainpage.html)
 
