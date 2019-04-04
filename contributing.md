@@ -10,7 +10,8 @@ Contribution and suggestions are welcome! Simply
 
 Please ensure your pull request adheres to the following guidelines:
 
-- Please search previous suggestions before making a new one, as yours may be a duplicate. 
+- Please search previous suggestions before making a new one, as yours may be a duplicate.
+  Keep the alphanumeric sorting to make this task easy. 
 - Please make an individual pull request for *each* suggestion.
 - Use the following format: `[RESOURCE](LINK)` - DESCRIPTION - (*if available*: REFERENCE to the paper where this resource is used, with a link to DOI, PubMed, bioRxiv).
 - Keep descriptions short and simple.
