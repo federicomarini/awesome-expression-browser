@@ -19,5 +19,6 @@ Please ensure your pull request adheres to the following guidelines:
 - Order projects alphabetically within each category.
 - Check your spelling and grammar.
 - New categories, or improvements to the existing categorisation are welcome.
+- (If you did not contribute yet to the repository) Append your name and GitHub handle + link to your profile in the  [list of Contributors](README.md#Contributors).
 
 Thank you for your suggestions!
