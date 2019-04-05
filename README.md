@@ -18,6 +18,7 @@ A curated list of software and resources for exploring and visualizing (browsing
 - [DVEX](https://shiny.mdc-berlin.de/DVEX/) accompanying http://science.sciencemag.org/content/358/6360/194 (www.dvex.org)
 - [epiviz](http://epiviz.cbcb.umd.edu), also accessible via epivizr (http://bioconductor.org/packages/release/bioc/html/epivizr.html)
 - [Expression Atlas](https://www.ebi.ac.uk/gxa/home) + https://www.ebi.ac.uk/gxa/sc/home
+- [eyeIntegration](https://eyeIntegration.nei.nih.gov), all publicly available human eye RNA-seq datasets reprocessed and made available with a reactive Shiny app
 - [FireBrowse](http://firebrowse.org)
 - [GenePattern](http://genepattern-notebook.org)
 - [GTEx Portal](https://gtexportal.org/home/) Good ol’ GTEx portal: 
@@ -66,5 +67,6 @@ A curated list of software and resources for exploring and visualizing (browsing
 - Kevin Rue-Albrecht ([@kevinrue](https://github.com/kevinrue))
 - Kevin Blighe ([@kevinblighe](https://github.com/kevinblighe))
 - Ben Busby ([@DCGenomics](https://github.com/DCGenomics))
+- David McGaughey ([@davemcg](https://github.com/davemcg))
 
 
