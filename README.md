@@ -51,6 +51,7 @@ A curated list of software and resources for exploring and visualizing (browsing
 - [WIlsON](https://cran.r-project.org/web/packages/wilson/), described in https://academic.oup.com/bioinformatics/article/35/6/1055/5078467; demo here http://loosolab.mpi-bn.mpg.de
 - [Xena Browser](https://xenabrowser.net) ucsc/xena
 - [Zebrafish single cell development atlas](https://kleintools.hms.harvard.edu/paper_websites/wagner_zebrafish_timecourse2018/mainpage.html)
+- [NCI Patient Derived Model Repository](https://pdmdb.cancer.gov/pls/apex/f?p=101:1:0::NO) expression and whole exome data on >350 patients xenografts and patient tissue samples.
 
 
 ## Other resources:
@@ -68,5 +69,6 @@ A curated list of software and resources for exploring and visualizing (browsing
 - Kevin Blighe ([@kevinblighe](https://github.com/kevinblighe))
 - Ben Busby ([@DCGenomics](https://github.com/DCGenomics))
 - David McGaughey ([@davemcg](https://github.com/davemcg))
+- Rajesh Patidar ([@patidarr](https://github.com/patidarr))
 
 
