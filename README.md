@@ -8,11 +8,14 @@ A curated list of software and resources for exploring and visualizing (browsing
 
 ## Software list
 
+- [AMP RA](https://immunogenomics.io/ampra), publicly available RNA-seq and CyTOF for human synovial tissue from patients with rheumatoid arthritis (RA) or osteoarthritis (OA), visualized with Shiny. [bioRxiv](https://doi.org/10.1101/351130)
+- [AMP SLE](https://immunogenomics.io/ampsle), publicly available RNA-seq for human kidney biopsies from patients with systemic lupus erythematosus (SLE) patients, visualized with Shiny. [bioRxiv](https://doi.org/10.1101/363051)
 - [adultHSPC10X](https://gottgens-lab.stemcells.cam.ac.uk/adultHSPC10X/) as a companion to http://www.bloodjournal.org/content/early/2018/03/23/blood-2017-12-821413 
 - [Allen Brain Atlases](http://portal.brain-map.org)
 - [ASAP](https://asap.epfl.ch)
 - [BioTuring Browser](http://bioturing.com/product/bbrowser) 
 - [cBioPortal](https://www.cbioportal.org)
+- [cellBrowser](https://cells.ucsc.edu/), a static HTML and Javascript browser for scRNA-seq data.
 - [cellxgene](https://github.com/chanzuckerberg/cellxgene), deployed e.g. for the Tabula Muris (http://tabulamuris.cxg.czi.technology) - a simpler browser is available at https://tabula-muris.ds.czbiohub.org 
 - [DRSC RNA-seq Explorer](https://www.flyrnai.org/tools/rna_seq/web/showProject/1) Lab website: https://www.flyrnai.org/scRNA/ https://www.biorxiv.org/content/10.1101/410423v1 + 
 - [DVEX](https://shiny.mdc-berlin.de/DVEX/) accompanying http://science.sciencemag.org/content/358/6360/194 (www.dvex.org)
@@ -25,11 +28,13 @@ A curated list of software and resources for exploring and visualizing (browsing
 - [Haemosphere](https://www.haemosphere.org/) - I reviewed that :)
 - [HCA Bone Marrow Viewer](http://www.altanalyze.org/ICGS/HCA/Viewer.php), related to this publication https://doi.org/10.1016/j.exphem.2018.09.004
 - [HTSVis](http://htsvis.dkfz.de/HTSvis/), for image screening. Code available at https://github.com/boutroslab/HTSvis, described in https://academic.oup.com/bioinformatics/article/33/18/2960/3827333
+- [Innate T cell gradient](https://immunogenomics.io/itc), low-input and single-cell RNA-seq for human T cell subsets, visualized with Shiny. [Nature Communications](https://doi.org/10.1038/s41467-019-08604-4)
 - [iS-CellR](https://github.com/immcore/iS-CellR), for analysing and visualising scRNA-seq data. R Shiny app. Manuscript available at https://academic.oup.com/bioinformatics/article/34/24/4305/5048937
 - [iSEE](https://bioconductor.org/packages/release/bioc/html/iSEE.html) - Interactive SummarizedExperiment Explorer (dev version at https://github.com/csoneson/iSEE), with custom panels (https://github.com/kevinrue/iSEE_custom). Publication available at https://f1000research.com/articles/7-741/v1
 - [Loupe Cell Browser](https://support.10xgenomics.com/single-cell-gene-expression/software/visualization/latest/what-is-loupe-cell-browser), from 10x Genomics
 - [Lung Aging Atlas](http://146.107.176.18:3838/MLAA_backup/), reachable from https://theislab.github.io/LungAgingAtlas/ and linked to this publication: https://www.nature.com/articles/s41467-019-08831-9
 - [Mammary Gland Development](https://marionilab.cruk.cam.ac.uk/mammaryGland/), companion to https://www.nature.com/articles/s41467-017-02001-5
+- [MERmaid](https://jef.works/MERmaid/), static HTML and Javascript browser for multiplexed FISH (MERFISH) data.
 - [Morpheus](https://software.broadinstitute.org/morpheus/)
 - [Mouse Cell Atlas](http://bis.zju.edu.cn/MCA/) Microwell-seq, companion to https://doi.org/10.1016/j.cell.2018.02.001
 - [Mouse Gastrulation and Early Organogenesis](https://marionilab.cruk.cam.ac.uk/MouseGastrulation2018/), accompanying https://www.nature.com/articles/s41586-019-0933-9
@@ -69,6 +74,8 @@ A curated list of software and resources for exploring and visualizing (browsing
 - Kevin Blighe ([@kevinblighe](https://github.com/kevinblighe))
 - Ben Busby ([@DCGenomics](https://github.com/DCGenomics))
 - David McGaughey ([@davemcg](https://github.com/davemcg))
+- Kamil Slowikowski ([@slowkow](https://github.com/slowkow))
 - Rajesh Patidar ([@patidarr](https://github.com/patidarr))
+
 
 
