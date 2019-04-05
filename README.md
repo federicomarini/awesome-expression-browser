@@ -42,6 +42,7 @@ A curated list of software and resources for exploring and visualizing (browsing
 - [Mouse Organogenesis Cell Atlas (MOCA)](https://oncoscape.v3.sttrcancer.org/atlas.gs.washington.edu.mouse.rna/landing), companion to the manuscript https://www.nature.com/articles/s41586-019-0969-x
 - [Mouse sci-ATAC-seq Atlas](http://atlas.gs.washington.edu/mouse-atac/), for example http://atlas.gs.washington.edu/mouse-atac/ukbb_visualization/, among others. Manuscript: https://doi.org/10.1016/j.cell.2018.06.052
 - [Multiple sclerosis gene atlas](http://msatlas.compbio.sdu.dk)
+- [NCI Patient Derived Model Repository](https://pdmdb.cancer.gov/pls/apex/f?p=101:1:0::NO) expression and whole exome data on >350 patients xenografts and patient tissue samples.
 - [Planaria Single Cell Atlas](https://shiny.mdc-berlin.de/psca/) 
 - [Planarian Digiworm](https://digiworm.wi.mit.edu), companion to http://science.sciencemag.org/content/360/6391/eaaq1736.full
 - [pRolocGUI](http://bioconductor.org/packages/release/bioc/html/pRolocGUI.html) (for proteomics)
@@ -56,7 +57,6 @@ A curated list of software and resources for exploring and visualizing (browsing
 - [WIlsON](https://cran.r-project.org/web/packages/wilson/), described in https://academic.oup.com/bioinformatics/article/35/6/1055/5078467; demo here http://loosolab.mpi-bn.mpg.de
 - [Xena Browser](https://xenabrowser.net) ucsc/xena
 - [Zebrafish single cell development atlas](https://kleintools.hms.harvard.edu/paper_websites/wagner_zebrafish_timecourse2018/mainpage.html)
-- [NCI Patient Derived Model Repository](https://pdmdb.cancer.gov/pls/apex/f?p=101:1:0::NO) expression and whole exome data on >350 patients xenografts and patient tissue samples.
 
 
 ## Other resources:
