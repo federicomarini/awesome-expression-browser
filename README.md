@@ -59,3 +59,12 @@ A curated list of software and resources for exploring and visualizing (browsing
 - A number of resources can be found at http://www.teichlab.org/data, although the newer sets adopted the use of iSEE
 - Something merfish-specific?
 
+## Contributors
+
+- Federico Marini ([@federicomarini](https://github.com/federicomarini))
+- Charlotte Soneson ([@csoneson](https://github.com/csoneson))
+- Kevin Rue-Albrecht ([@kevinrue](https://github.com/kevinrue))
+- Kevin Blighe ([@kevinblighe](https://github.com/kevinblighe))
+- Ben Busby ([@DCGenomics](https://github.com/DCGenomics))
+
+
