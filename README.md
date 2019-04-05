@@ -24,7 +24,6 @@ A curated list of software and resources for exploring and visualizing (browsing
 - [Haemosphere](https://www.haemosphere.org/) - I reviewed that :)
 - [HCA Bone Marrow Viewer](http://www.altanalyze.org/ICGS/HCA/Viewer.php), related to this publication https://doi.org/10.1016/j.exphem.2018.09.004
 - [HTSVis](http://htsvis.dkfz.de/HTSvis/), for image screening. Code available at https://github.com/boutroslab/HTSvis, described in https://academic.oup.com/bioinformatics/article/33/18/2960/3827333
-- [ideogram.js](https://github.com/NCBI-Hackathons/rnaseqview) described in https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5605993/
 - [iS-CellR](https://github.com/immcore/iS-CellR), for analysing and visualising scRNA-seq data. R Shiny app. Manuscript available at https://academic.oup.com/bioinformatics/article/34/24/4305/5048937
 - [iSEE](https://bioconductor.org/packages/release/bioc/html/iSEE.html) - Interactive SummarizedExperiment Explorer (dev version at https://github.com/csoneson/iSEE), with custom panels (https://github.com/kevinrue/iSEE_custom). Publication available at https://f1000research.com/articles/7-741/v1
 - [Loupe Cell Browser](https://support.10xgenomics.com/single-cell-gene-expression/software/visualization/latest/what-is-loupe-cell-browser), from 10x Genomics
@@ -41,6 +40,7 @@ A curated list of software and resources for exploring and visualizing (browsing
 - [Planarian Digiworm](https://digiworm.wi.mit.edu), companion to http://science.sciencemag.org/content/360/6391/eaaq1736.full
 - [pRolocGUI](http://bioconductor.org/packages/release/bioc/html/pRolocGUI.html) (for proteomics)
 - [Reptilian pallium](https://public.brain.mpg.de/shiny/apps/SingleCellTranscriptomics/) More exotic species: https://brain.mpg.de/research/laurent-department/software-techniques.html
+- [RNA-Seq Viewer](https://github.com/NCBI-Hackathons/rnaseqview) described in https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5605993/, and based on the [ideogram.js](https://github.com/eweitz/ideogram) library
 - [scClustViz](https://baderlab.github.io/scClustViz/) - focused on exploring clustering results, paper here: https://f1000research.com/articles/7-1522/v2
 - [scSVA](https://github.com/klarman-cell-observatory/scSVA), single-cell Scalable Visualization and Analytics
 - [Seattle Organismal Molecular Atlases](http://atlas.gs.washington.edu/hub/)
