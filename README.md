@@ -10,6 +10,7 @@ A curated list of software and resources for exploring and visualizing (browsing
 
 - [adultHSPC10X](https://gottgens-lab.stemcells.cam.ac.uk/adultHSPC10X/) as a companion to http://www.bloodjournal.org/content/early/2018/03/23/blood-2017-12-821413 
 - [Allen Brain Atlases](http://portal.brain-map.org)
+- [ALS Spatiotemporal gene expression Atlas](https://als-st.nygenome.org), companion to the MS http://science.sciencemag.org/content/364/6435/89
 - [ASAP](https://asap.epfl.ch)
 - [BioTuring Browser](http://bioturing.com/product/bbrowser) 
 - [cBioPortal](https://www.cbioportal.org)
@@ -52,13 +53,11 @@ A curated list of software and resources for exploring and visualizing (browsing
 - [Xena Browser](https://xenabrowser.net) ucsc/xena
 - [Zebrafish single cell development atlas](https://kleintools.hms.harvard.edu/paper_websites/wagner_zebrafish_timecourse2018/mainpage.html)
 
-
 ## Other resources:
 
 - A collection of tools related to the Human Cell Atlas project: https://prod.data.humancellatlas.org/analyze
 - An overview/comment on some of the above: http://science.sciencemag.org/content/358/6360/172
 - A number of resources can be found at http://www.teichlab.org/data, although the newer sets adopted the use of iSEE
-- Something merfish-specific?
 
 ## Contributors
 
