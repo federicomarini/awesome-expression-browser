@@ -42,21 +42,21 @@ A curated list of software and resources for exploring and visualizing (browsing
 - [Mouse Organogenesis](https://marionilab.cruk.cam.ac.uk/organogenesis/), companion to https://www.nature.com/articles/s41556-017-0013-z
 - [Mouse Organogenesis Cell Atlas (MOCA)](https://oncoscape.v3.sttrcancer.org/atlas.gs.washington.edu.mouse.rna/landing), companion to the manuscript https://www.nature.com/articles/s41586-019-0969-x
 - [Mouse sci-ATAC-seq Atlas](http://atlas.gs.washington.edu/mouse-atac/), for example http://atlas.gs.washington.edu/mouse-atac/ukbb_visualization/, among others. Manuscript: https://doi.org/10.1016/j.cell.2018.06.052
-- [Multiple sclerosis gene atlas](http://msatlas.compbio.sdu.dk)
+- [Multiple sclerosis gene atlas](http://msatlas.compbio.sdu.dk), companion to https://www.biorxiv.org/content/10.1101/584920v1
 - [NCI Patient Derived Model Repository](https://pdmdb.cancer.gov/pls/apex/f?p=101:1:0::NO) expression and whole exome data on >350 patients xenografts and patient tissue samples.
 - [Planaria Single Cell Atlas](https://shiny.mdc-berlin.de/psca/), related to the publication available at http://science.sciencemag.org/content/360/6391/eaaq1723
 - [Planarian Digiworm](https://digiworm.wi.mit.edu), companion to http://science.sciencemag.org/content/360/6391/eaaq1736.full
-- [pRolocGUI](http://bioconductor.org/packages/release/bioc/html/pRolocGUI.html) (for proteomics)
+- [pRolocGUI](http://bioconductor.org/packages/release/bioc/html/pRolocGUI.html), for interactive visualisation of spatial proteomics data
 - [Reptilian pallium](https://public.brain.mpg.de/shiny/apps/SingleCellTranscriptomics/) More exotic species: https://brain.mpg.de/research/laurent-department/software-techniques.html
 - [RNA-Seq Viewer](https://github.com/NCBI-Hackathons/rnaseqview) described in https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5605993/, and based on the [ideogram.js](https://github.com/eweitz/ideogram) library
 - [scClustViz](https://baderlab.github.io/scClustViz/) - focused on exploring clustering results, paper here: https://f1000research.com/articles/7-1522/v2
 - [scSVA](https://github.com/klarman-cell-observatory/scSVA), single-cell Scalable Visualization and Analytics
 - [Seattle Organismal Molecular Atlases](http://atlas.gs.washington.edu/hub/), the SOMA Data Portal
-- [shinyMethyl](https://www.bioconductor.org/packages/release/bioc/html/shinyMethyl.html) (for methylation)
+- [shinyMethyl](https://www.bioconductor.org/packages/release/bioc/html/shinyMethyl.html), Interactive visualization for Illumina methylation arrays
 - [Single Cell Portal](https://portals.broadinstitute.org/single_cell) at the Broad Institute; example here: https://portals.broadinstitute.org/single_cell/study/SCP43/atlas-of-human-blood-dendritic-cells-and-monocytes#study-visualize - somehow takes very long to load?
 - [TCGABrowser](http://tcgabrowser.ethz.ch:3838/PROD/), with source code available at https://github.com/pcheng84/TCGAbrowser/
 - [WIlsON](https://cran.r-project.org/web/packages/wilson/), described in https://academic.oup.com/bioinformatics/article/35/6/1055/5078467; demo here http://loosolab.mpi-bn.mpg.de
-- [Xena Browser](https://xenabrowser.net) ucsc/xena
+- [Xena Browser](https://xenabrowser.net), the UCSC Xena Functional Genomics Explorer
 - [Zebrafish single cell development atlas](https://kleintools.hms.harvard.edu/paper_websites/wagner_zebrafish_timecourse2018/mainpage.html), related to the publication in http://science.sciencemag.org/content/360/6392/981
 
 ## Other resources:
