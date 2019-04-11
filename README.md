@@ -51,6 +51,7 @@ A curated list of software and resources for exploring and visualizing (browsing
 - [Reptilian pallium](https://public.brain.mpg.de/shiny/apps/SingleCellTranscriptomics/) More exotic species: https://brain.mpg.de/research/laurent-department/software-techniques.html
 - [RNA-Seq Viewer](https://github.com/NCBI-Hackathons/rnaseqview) described in https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5605993/, and based on the [ideogram.js](https://github.com/eweitz/ideogram) library
 - [scClustViz](https://baderlab.github.io/scClustViz/) - focused on exploring clustering results, paper here: https://f1000research.com/articles/7-1522/v2
+- [SCope](http://scope.aertslab.org/), general visualization tool for large-scale scRNA-seq datasets. Has some datasets preprocessed to showcase, allows own data (in the .loom format) to be uploaded. Source code: https://github.com/aertslab/SCope. Original publication where this is found: https://www.sciencedirect.com/science/article/pii/S0092867418307207
 - [scSVA](https://github.com/klarman-cell-observatory/scSVA), single-cell Scalable Visualization and Analytics
 - [Seattle Organismal Molecular Atlases](http://atlas.gs.washington.edu/hub/), the SOMA Data Portal
 - [shinyMethyl](https://www.bioconductor.org/packages/release/bioc/html/shinyMethyl.html), Interactive visualization for Illumina methylation arrays
