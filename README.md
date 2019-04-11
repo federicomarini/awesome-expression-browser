@@ -37,7 +37,7 @@ A curated list of software and resources for exploring and visualizing (browsing
 - [Mammary Gland Development](https://marionilab.cruk.cam.ac.uk/mammaryGland/), companion to https://www.nature.com/articles/s41467-017-02001-5
 - [MERmaid](https://jef.works/MERmaid/), static HTML and Javascript browser for multiplexed FISH (MERFISH) data.
 - [Morpheus](https://software.broadinstitute.org/morpheus/), from the Broad Institute
-- [Mousebrain.org](http://mousebrain.org), an atlas of cell types from the Linnarsson Lab
+- [Mousebrain.org](http://mousebrain.org), an atlas of cell types from the Linnarsson Lab - Manuscript: https://www.sciencedirect.com/science/article/pii/S009286741830789X
 - [Mouse Cell Atlas](http://bis.zju.edu.cn/MCA/) Microwell-seq, companion to https://doi.org/10.1016/j.cell.2018.02.001
 - [Mouse Gastrulation and Early Organogenesis](https://marionilab.cruk.cam.ac.uk/MouseGastrulation2018/), accompanying https://www.nature.com/articles/s41586-019-0933-9
 - [Mouse Organogenesis](https://marionilab.cruk.cam.ac.uk/organogenesis/), companion to https://www.nature.com/articles/s41556-017-0013-z
