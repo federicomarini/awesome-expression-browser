@@ -58,6 +58,7 @@ A curated list of software and resources for exploring and visualizing (browsing
 - [Seattle Organismal Molecular Atlases](http://atlas.gs.washington.edu/hub/), the SOMA Data Portal
 - [shinyMethyl](https://www.bioconductor.org/packages/release/bioc/html/shinyMethyl.html), Interactive visualization for Illumina methylation arrays
 - [Single Cell Portal](https://portals.broadinstitute.org/single_cell) at the Broad Institute; example here: https://portals.broadinstitute.org/single_cell/study/SCP43/atlas-of-human-blood-dendritic-cells-and-monocytes#study-visualize - somehow takes very long to load?
+- [Slide-seq Portal](https://portals.broadinstitute.org/single_cell/study/SCP354/slide-seq-study), companion to https://science.sciencemag.org/content/363/6434/1463. Code available at https://github.com/broadchenf/Slideseq/tree/master/BeadSeq%20Code
 - [TCGABrowser](http://tcgabrowser.ethz.ch:3838/PROD/), with source code available at https://github.com/pcheng84/TCGAbrowser/
 - [VisCello](https://cello.shinyapps.io/celegans/) for C. elegans embryogenesis, accompanying [https://www.biorxiv.org/content/10.1101/565549v2](https://www.biorxiv.org/content/10.1101/565549v2), with source code available at [https://github.com/qinzhu/VisCello](https://github.com/qinzhu/VisCello)
 - [WIlsON](https://cran.r-project.org/web/packages/wilson/), described in https://academic.oup.com/bioinformatics/article/35/6/1055/5078467; demo here http://loosolab.mpi-bn.mpg.de
