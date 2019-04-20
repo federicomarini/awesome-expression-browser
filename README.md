@@ -26,6 +26,7 @@ A curated list of software and resources for exploring and visualizing (browsing
 - [eyeIntegration](https://eyeIntegration.nei.nih.gov), all publicly available human eye RNA-seq datasets reprocessed and made available with a reactive Shiny app
 - [FireBrowse](http://firebrowse.org), developed by the Broad Institute on top of Firehose
 - [GenePattern](http://genepattern-notebook.org), Gene Pattern Notebook Environment (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5572818/)
+- [GEPIA](http://gepia.cancer-pku.cn/) Gene Expression Profiling Interactive Analysis, a web server for cancer and normal gene expression profiling and interactive analyses. (https://academic.oup.com/nar/article/45/W1/W98/3605636)
 - [GTEx Portal](https://gtexportal.org/home/) Portal of the Genotype-Tissue Expression (GTEx) project 
 - [Haemosphere](https://www.haemosphere.org/), to access and analyse the Haemopedia datasets and some other key datasets of interest to the haematopoiesis community (latest reference: https://doi.org/10.1093/nar/gky1020)
 - [HCA Bone Marrow Viewer](http://www.altanalyze.org/ICGS/HCA/Viewer.php), related to this publication https://doi.org/10.1016/j.exphem.2018.09.004
@@ -81,6 +82,7 @@ A curated list of software and resources for exploring and visualizing (browsing
 - David McGaughey ([@davemcg](https://github.com/davemcg))
 - Kamil Slowikowski ([@slowkow](https://github.com/slowkow))
 - Rajesh Patidar ([@patidarr](https://github.com/patidarr))
+- Ming Tang [@crazyhottommy](https://github.com/crazyhottommy)
 
 
 
