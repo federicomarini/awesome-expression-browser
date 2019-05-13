@@ -20,6 +20,7 @@ A curated list of software and resources for exploring and visualizing (browsing
 - [cellBrowser](https://cells.ucsc.edu/), a static HTML and Javascript browser for scRNA-seq data.
 - [cellxgene](https://github.com/chanzuckerberg/cellxgene), deployed e.g. for the Tabula Muris (http://tabulamuris.cxg.czi.technology) - a simpler browser is available at https://tabula-muris.ds.czbiohub.org 
 - [cerebro](https://github.com/romanhaa/Cerebro), Cell Report Browser, interactive application for exploration of scRNA-seq data. [bioRxiv](https://www.biorxiv.org/content/10.1101/631705v1).
+- [ChickHeartAtlas](http://www.biomedatlas.org/ChickHeartAtlas/HH12/chick_heart_gene_expression.html), a 3D molecular atlas of the chick embryonic heart in support to the data of https://www.biorxiv.org/content/10.1101/609032v1
 - [DropViz](http://dropviz.org), for exploring the Mouse Brain (Macosko & McCarroll Labs). Source code is at https://github.com/broadinstitute/dropviz, publication related to this is https://www.sciencedirect.com/science/article/pii/S0092867418309553
 - [DRSC RNA-seq Explorer](https://www.flyrnai.org/tools/rna_seq/web/showProject/1) Lab website: https://www.flyrnai.org/scRNA/ https://www.biorxiv.org/content/10.1101/410423v1 + 
 - [DVEX](https://shiny.mdc-berlin.de/DVEX/) accompanying http://science.sciencemag.org/content/358/6360/194 (www.dvex.org)
