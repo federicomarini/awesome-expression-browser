@@ -18,7 +18,7 @@ A curated list of software and resources for exploring and visualizing (browsing
 - [Brain Immune Atlas](http://www.brainimmuneatlas.org/), a resource and visualization tool for assessing various single-cell RNA sequencing datasets that together capture the diversity of the brain immune compartment. Publication related: https://www.nature.com/articles/s41593-019-0393-4; source code: https://github.com/saeyslab/brainimmuneatlas/
 - [cBioPortal](https://www.cbioportal.org), cBioPortal for Cancer Genomics
 - [cellBrowser](https://cells.ucsc.edu/), a static HTML and Javascript browser for scRNA-seq data.
-- [cellxgene](https://github.com/chanzuckerberg/cellxgene), deployed e.g. for the Tabula Muris (http://tabulamuris.cxg.czi.technology) - a simpler browser is available at https://tabula-muris.ds.czbiohub.org 
+- [cellxgene](https://github.com/chanzuckerberg/cellxgene), deployed e.g. for the Tabula Muris (http://tabulamuris.cxg.czi.technology) - a simpler browser is available at https://tabula-muris.ds.czbiohub.org. Another example of this in action is http://mouse.retina.gofflab.org, for the Developing Mouse Retina https://doi.org/10.1016/j.neuron.2019.04.010
 - [cerebro](https://github.com/romanhaa/Cerebro), Cell Report Browser, interactive application for exploration of scRNA-seq data. [bioRxiv](https://www.biorxiv.org/content/10.1101/631705v1).
 - [ChickHeartAtlas](http://www.biomedatlas.org/ChickHeartAtlas/HH12/chick_heart_gene_expression.html), a 3D molecular atlas of the chick embryonic heart in support to the data of https://www.biorxiv.org/content/10.1101/609032v1
 - [DropViz](http://dropviz.org), for exploring the Mouse Brain (Macosko & McCarroll Labs). Source code is at https://github.com/broadinstitute/dropviz, publication related to this is https://www.sciencedirect.com/science/article/pii/S0092867418309553
@@ -54,6 +54,7 @@ A curated list of software and resources for exploring and visualizing (browsing
 - [Planaria Single Cell Atlas](https://shiny.mdc-berlin.de/psca/), related to the publication available at http://science.sciencemag.org/content/360/6391/eaaq1723
 - [Planarian Digiworm](https://digiworm.wi.mit.edu), companion to http://science.sciencemag.org/content/360/6391/eaaq1736.full
 - [pRolocGUI](http://bioconductor.org/packages/release/bioc/html/pRolocGUI.html), for interactive visualisation of spatial proteomics data
+- [ProteinPaint](https://proteinpaint.stjude.org/examples/), some general info are here: https://www.stjude.org/research/shared-resources/technology-licensing/technologies/proteinpaint-web-application-for-visualizing-genomic-data-sj-15-0021.html, original publication here: https://www.nature.com/articles/ng.3466. Used e.g. to deploy Mouse Retina Development data, https://proteinpaint.stjude.org/F/mm10/2019.mouse.retina.scRNA.html
 - [Reptilian pallium](https://public.brain.mpg.de/shiny/apps/SingleCellTranscriptomics/) More exotic species: https://brain.mpg.de/research/laurent-department/software-techniques.html
 - [RNA-Seq Viewer](https://github.com/NCBI-Hackathons/rnaseqview) described in https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5605993/, and based on the [ideogram.js](https://github.com/eweitz/ideogram) library
 - [scClustViz](https://baderlab.github.io/scClustViz/) - focused on exploring clustering results, paper here: https://f1000research.com/articles/7-1522/v2
