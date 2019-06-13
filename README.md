@@ -60,6 +60,7 @@ A curated list of software and resources for exploring and visualizing (browsing
 - [scClustViz](https://baderlab.github.io/scClustViz/) - focused on exploring clustering results, paper here: https://f1000research.com/articles/7-1522/v2
 - [SCope](http://scope.aertslab.org/), general visualization tool for large-scale scRNA-seq datasets. Has some datasets preprocessed to showcase, allows own data (in the .loom format) to be uploaded. Source code: https://github.com/aertslab/SCope. Original publication where this is found: https://www.sciencedirect.com/science/article/pii/S0092867418307207
 - [scSVA](https://github.com/klarman-cell-observatory/scSVA), single-cell Scalable Visualization and Analytics
+- [SCV (Single Cell Viewer)](https://github.com/neuhausi/single-cell-viewer), preprint at https://www.biorxiv.org/content/10.1101/664789v2
 - [Seattle Organismal Molecular Atlases](http://atlas.gs.washington.edu/hub/), the SOMA Data Portal
 - [shinyMethyl](https://www.bioconductor.org/packages/release/bioc/html/shinyMethyl.html), Interactive visualization for Illumina methylation arrays
 - [Single Cell Portal](https://portals.broadinstitute.org/single_cell) at the Broad Institute; example here: https://portals.broadinstitute.org/single_cell/study/SCP43/atlas-of-human-blood-dendritic-cells-and-monocytes#study-visualize - Source code available here: https://github.com/broadinstitute/single_cell_portal_core
