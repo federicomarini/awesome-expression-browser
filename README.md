@@ -82,15 +82,16 @@ A curated list of software and resources for exploring and visualizing (browsing
 
 ## Contributors
 
-- Federico Marini ([@federicomarini](https://github.com/federicomarini))
-- Charlotte Soneson ([@csoneson](https://github.com/csoneson))
-- Kevin Rue-Albrecht ([@kevinrue](https://github.com/kevinrue))
-- Kevin Blighe ([@kevinblighe](https://github.com/kevinblighe))
-- Ben Busby ([@DCGenomics](https://github.com/DCGenomics))
-- David McGaughey ([@davemcg](https://github.com/davemcg))
-- Kamil Slowikowski ([@slowkow](https://github.com/slowkow))
-- Rajesh Patidar ([@patidarr](https://github.com/patidarr))
+- Federico Marini [@federicomarini](https://github.com/federicomarini)
+- Charlotte Soneson [@csoneson](https://github.com/csoneson)
+- Kevin Rue-Albrecht [@kevinrue](https://github.com/kevinrue)
+- Kevin Blighe [@kevinblighe](https://github.com/kevinblighe)
+- Ben Busby [@DCGenomics](https://github.com/DCGenomics)
+- David McGaughey [@davemcg](https://github.com/davemcg)
+- Kamil Slowikowski [@slowkow](https://github.com/slowkow)
+- Rajesh Patidar [@patidarr](https://github.com/patidarr)
 - Ming Tang [@crazyhottommy](https://github.com/crazyhottommy)
+- Michael von Papen [@mvonpapen](https://github.com/mvonpapen)
 
 
 
