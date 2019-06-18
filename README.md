@@ -27,7 +27,7 @@ A curated list of software and resources for exploring and visualizing (browsing
 - [epiviz](http://epiviz.cbcb.umd.edu), also accessible via epivizr (http://bioconductor.org/packages/release/bioc/html/epivizr.html)
 - [Expression Atlas](https://www.ebi.ac.uk/gxa/home) + https://www.ebi.ac.uk/gxa/sc/home
 - [eyeIntegration](https://eyeIntegration.nei.nih.gov), all publicly available human eye RNA-seq datasets reprocessed and made available with a reactive Shiny app
-- [FASTGenomics](https://fastgenomics.org), an online platform to share single-cell RNA sequencing data and analyses using reproducible workflows. Users can upload their own data and generate customized and reproducible workflows for the exploration and analysis of gene expression data ([Scholz et al. 2018](https://doi.org/10.1101/272476)).
+- [FASTGenomics](https://fastgenomics.org), an online platform to share single-cell RNA sequencing data and analyses using reproducible workflows. Users can upload their own data and generate reproducible workflows ([Scholz et al. 2018](https://doi.org/10.1101/272476)). GitHub: [@fastgenomics](https://github.com/fastgenomics).
 - [FireBrowse](http://firebrowse.org), developed by the Broad Institute on top of Firehose
 - [GenePattern](http://genepattern-notebook.org), Gene Pattern Notebook Environment (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5572818/)
 - [GEPIA](http://gepia.cancer-pku.cn/) Gene Expression Profiling Interactive Analysis, a web server for cancer and normal gene expression profiling and interactive analyses. (https://academic.oup.com/nar/article/45/W1/W98/3605636)
