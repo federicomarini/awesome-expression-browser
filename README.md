@@ -50,6 +50,7 @@ A curated list of software and resources for exploring and visualizing (browsing
 - [Mouse Organogenesis](https://marionilab.cruk.cam.ac.uk/organogenesis/), companion to https://www.nature.com/articles/s41556-017-0013-z
 - [Mouse Organogenesis Cell Atlas (MOCA)](https://oncoscape.v3.sttrcancer.org/atlas.gs.washington.edu.mouse.rna/landing), companion to the manuscript https://www.nature.com/articles/s41586-019-0969-x
 - [Mouse sci-ATAC-seq Atlas](http://atlas.gs.washington.edu/mouse-atac/), for example http://atlas.gs.washington.edu/mouse-atac/ukbb_visualization/, among others. Manuscript: https://doi.org/10.1016/j.cell.2018.06.052
+- [Mouse Visual Cortex Explorer](http://greenberg.hms.harvard.edu/project/gene-database/), related to the manuscript https://doi.org/10.1038/s41593-017-0029-5 (Hrvatin et al., 2018)
 - [Multiple sclerosis gene atlas](http://msatlas.compbio.sdu.dk), companion to https://www.biorxiv.org/content/10.1101/584920v1
 - [NCI Patient Derived Model Repository](https://pdmdb.cancer.gov/pls/apex/f?p=101:1:0::NO) expression and whole exome data on >350 patients xenografts and patient tissue samples.
 - [Planaria Single Cell Atlas](https://shiny.mdc-berlin.de/psca/), related to the publication available at http://science.sciencemag.org/content/360/6391/eaaq1723
