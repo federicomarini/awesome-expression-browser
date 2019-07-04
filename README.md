@@ -70,6 +70,7 @@ A curated list of software and resources for exploring and visualizing (browsing
 - [Spaniel](https://rachelqueen1.github.io/Spaniel/), designed to visualise results of Spatial Transcriptomics experiments; publication here https://www.biorxiv.org/content/10.1101/619197v1
 - [ST Viewer](https://github.com/SpatialTranscriptomicsResearch/st_viewer), a GUI tool for easy and smooth visualisation and analysis of Spatial Transcriptomics datasets. Publication at https://academic.oup.com/bioinformatics/article/35/6/1058/5078471
 - [TCGABrowser](http://tcgabrowser.ethz.ch:3838/PROD/), with source code available at https://github.com/pcheng84/TCGAbrowser/
+- [Transcriptome Dynamics for CD4+ T-cells in Experimental Malaria](https://malariaimmunology.shinyapps.io/cd4_dynamics/), developed as a companion to https://www.biorxiv.org/content/10.1101/675967v1
 - [VisCello](https://cello.shinyapps.io/celegans/) for C. elegans embryogenesis, accompanying [https://www.biorxiv.org/content/10.1101/565549v2](https://www.biorxiv.org/content/10.1101/565549v2), with source code available at [https://github.com/qinzhu/VisCello](https://github.com/qinzhu/VisCello)
 - [WIlsON](https://cran.r-project.org/web/packages/wilson/), described in https://academic.oup.com/bioinformatics/article/35/6/1055/5078467; demo here http://loosolab.mpi-bn.mpg.de
 - [Xena Browser](https://xenabrowser.net), the UCSC Xena Functional Genomics Explorer
