@@ -25,7 +25,7 @@ A curated list of software and resources for exploring and visualizing (browsing
 - [DRSC RNA-seq Explorer](https://www.flyrnai.org/tools/rna_seq/web/showProject/1) Lab website: https://www.flyrnai.org/scRNA/ https://www.biorxiv.org/content/10.1101/410423v1 + 
 - [DVEX](https://shiny.mdc-berlin.de/DVEX/) accompanying http://science.sciencemag.org/content/358/6360/194 (www.dvex.org)
 - [epiviz](http://epiviz.cbcb.umd.edu), also accessible via epivizr (http://bioconductor.org/packages/release/bioc/html/epivizr.html)
-- [Expression Atlas](https://www.ebi.ac.uk/gxa/home) + https://www.ebi.ac.uk/gxa/sc/home
+- [Expression Atlas](https://www.ebi.ac.uk/gxa/home) for bulk RNA-seq datasets
 - [eyeIntegration](https://eyeIntegration.nei.nih.gov), all publicly available human eye RNA-seq datasets reprocessed and made available with a reactive Shiny app
 - [FASTGenomics](https://fastgenomics.org), an online platform to share single-cell RNA sequencing data and analyses using reproducible workflows. Users can upload their own data and generate reproducible workflows ([Scholz et al. 2018](https://doi.org/10.1101/272476)). GitHub: [@fastgenomics](https://github.com/fastgenomics). A free demo instance is reachable at https://prod.fastgenomics.org/ (allows anonymous login)
 - [FireBrowse](http://firebrowse.org), developed by the Broad Institute on top of Firehose
@@ -66,6 +66,7 @@ A curated list of software and resources for exploring and visualizing (browsing
 - [SCV (Single Cell Viewer)](https://github.com/neuhausi/single-cell-viewer), preprint at https://www.biorxiv.org/content/10.1101/664789v2
 - [Seattle Organismal Molecular Atlases](http://atlas.gs.washington.edu/hub/), the SOMA Data Portal
 - [shinyMethyl](https://www.bioconductor.org/packages/release/bioc/html/shinyMethyl.html), Interactive visualization for Illumina methylation arrays
+- [Single Cell Expression Atlas](https://www.ebi.ac.uk/gxa/sc/home), where the June 2019 release contains 99 single cell RNA-Seq studies (total: 882958 cells), across 11 different species
 - [Single Cell Portal](https://portals.broadinstitute.org/single_cell) at the Broad Institute; example here: https://portals.broadinstitute.org/single_cell/study/SCP43/atlas-of-human-blood-dendritic-cells-and-monocytes#study-visualize - Source code available here: https://github.com/broadinstitute/single_cell_portal_core
 - [Slide-seq Portal](https://portals.broadinstitute.org/single_cell/study/SCP354/slide-seq-study), companion to https://science.sciencemag.org/content/363/6434/1463. Code available at https://github.com/broadchenf/Slideseq/tree/master/BeadSeq%20Code
 - [Spaniel](https://rachelqueen1.github.io/Spaniel/), designed to visualise results of Spatial Transcriptomics experiments; publication here https://www.biorxiv.org/content/10.1101/619197v1
