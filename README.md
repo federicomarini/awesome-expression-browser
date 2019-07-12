@@ -28,6 +28,7 @@ A curated list of software and resources for exploring and visualizing (browsing
 - [Expression Atlas](https://www.ebi.ac.uk/gxa/home) for bulk RNA-seq datasets
 - [eyeIntegration](https://eyeIntegration.nei.nih.gov), all publicly available human eye RNA-seq datasets reprocessed and made available with a reactive Shiny app
 - [FASTGenomics](https://fastgenomics.org), an online platform to share single-cell RNA sequencing data and analyses using reproducible workflows. Users can upload their own data and generate reproducible workflows ([Scholz et al. 2018](https://doi.org/10.1101/272476)). GitHub: [@fastgenomics](https://github.com/fastgenomics). A free demo instance is reachable at https://prod.fastgenomics.org/ (allows anonymous login)
+- [Fate Bias Inference in Lymphoid progenitors](http://hematopoietic-progenitors.ie-freiburg.mpg.de), from the lab of Dominic Grün - single-cell RNA-seq data of murine hematopoietic progenitors
 - [FireBrowse](http://firebrowse.org), developed by the Broad Institute on top of Firehose
 - [GenePattern](http://genepattern-notebook.org), Gene Pattern Notebook Environment (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5572818/)
 - [GEPIA](http://gepia.cancer-pku.cn/) Gene Expression Profiling Interactive Analysis, a web server for cancer and normal gene expression profiling and interactive analyses. (https://academic.oup.com/nar/article/45/W1/W98/3605636)
@@ -35,6 +36,7 @@ A curated list of software and resources for exploring and visualizing (browsing
 - [Haemosphere](https://www.haemosphere.org/), to access and analyse the Haemopedia datasets and some other key datasets of interest to the haematopoiesis community (latest reference: https://doi.org/10.1093/nar/gky1020)
 - [HCA Bone Marrow Viewer](http://www.altanalyze.org/ICGS/HCA/Viewer.php), related to this publication https://doi.org/10.1016/j.exphem.2018.09.004
 - [HTSVis](http://htsvis.dkfz.de/HTSvis/), for image screening. Code available at https://github.com/boutroslab/HTSvis, described in https://academic.oup.com/bioinformatics/article/33/18/2960/3827333
+- [Human Liver Cell Atlas](http://human-liver-cell-atlas.ie-freiburg.mpg.de), related to https://dx.doi.org/10.1038/s41586-019-1373-2 - *currently not working?*
 - [Innate T cell gradient](https://immunogenomics.io/itc), low-input and single-cell RNA-seq for human T cell subsets, visualized with Shiny. [Nature Communications](https://doi.org/10.1038/s41467-019-08604-4)
 - [iS-CellR](https://github.com/immcore/iS-CellR), for analysing and visualising scRNA-seq data. R Shiny app. Manuscript available at https://academic.oup.com/bioinformatics/article/34/24/4305/5048937
 - [iSEE](https://bioconductor.org/packages/release/bioc/html/iSEE.html) - Interactive SummarizedExperiment Explorer (dev version at https://github.com/csoneson/iSEE), with custom panels (https://github.com/kevinrue/iSEE_custom). Publication available at https://f1000research.com/articles/7-741/v1
