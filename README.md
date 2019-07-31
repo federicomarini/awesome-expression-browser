@@ -23,7 +23,7 @@ A curated list of software and resources for exploring and visualizing (browsing
 - [ChickHeartAtlas](http://www.biomedatlas.org/ChickHeartAtlas/HH12/chick_heart_gene_expression.html), a 3D molecular atlas of the chick embryonic heart in support to the data of https://www.biorxiv.org/content/10.1101/609032v1
 - [CoDEx](Cortical Development Expression Viewer), available at http://geschwindlab.dgsom.ucla.edu/pages/codexviewer (redirects to http://solo.bmap.ucla.edu/shiny/webapp/). Publication: https://doi.org/10.1016/j.neuron.2019.06.011
 - [DropViz](http://dropviz.org), for exploring the Mouse Brain (Macosko & McCarroll Labs). Source code is at https://github.com/broadinstitute/dropviz, publication related to this is https://www.sciencedirect.com/science/article/pii/S0092867418309553
-- [DRSC RNA-seq Explorer](https://www.flyrnai.org/tools/rna_seq/web/showProject/1) Lab website: https://www.flyrnai.org/scRNA/ https://www.biorxiv.org/content/10.1101/410423v1 + 
+- [DRSC RNA-seq Explorer](https://www.flyrnai.org/tools/rna_seq/web/showProject/1/plot_coord=0/sample_id=all) Lab website: https://www.flyrnai.org/scRNA/ https://www.biorxiv.org/content/10.1101/410423v1 + 
 - [DVEX](https://shiny.mdc-berlin.de/DVEX/) accompanying http://science.sciencemag.org/content/358/6360/194 (www.dvex.org)
 - [epiviz](http://epiviz.cbcb.umd.edu), also accessible via epivizr (http://bioconductor.org/packages/release/bioc/html/epivizr.html)
 - [Expression Atlas](https://www.ebi.ac.uk/gxa/home) for bulk RNA-seq datasets
