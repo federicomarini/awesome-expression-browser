@@ -39,6 +39,7 @@ A curated list of software and resources for exploring and visualizing (browsing
 - [HCA Bone Marrow Viewer](http://www.altanalyze.org/ICGS/HCA/Viewer.php), related to this publication https://doi.org/10.1016/j.exphem.2018.09.004
 - [HTSVis](http://htsvis.dkfz.de/HTSvis/), for image screening. Code available at https://github.com/boutroslab/HTSvis, described in https://academic.oup.com/bioinformatics/article/33/18/2960/3827333
 - [Human Liver Cell Atlas](http://human-liver-cell-atlas.ie-freiburg.mpg.de), related to https://dx.doi.org/10.1038/s41586-019-1373-2 - *currently not working?*
+- [iMAC](https://www.stemformatics.org/atlas), an interactive atlas to explore phenotypic differences between macrophage cells. Puiblication available at https://www.biorxiv.org/content/10.1101/719237v1
 - [Innate T cell gradient](https://immunogenomics.io/itc), low-input and single-cell RNA-seq for human T cell subsets, visualized with Shiny. [Nature Communications](https://doi.org/10.1038/s41467-019-08604-4)
 - [iS-CellR](https://github.com/immcore/iS-CellR), for analysing and visualising scRNA-seq data. R Shiny app. Manuscript available at https://academic.oup.com/bioinformatics/article/34/24/4305/5048937
 - [iSEE](https://bioconductor.org/packages/release/bioc/html/iSEE.html) - Interactive SummarizedExperiment Explorer (dev version at https://github.com/csoneson/iSEE), with custom panels (https://github.com/kevinrue/iSEE_custom). Publication available at https://f1000research.com/articles/7-741/v1
