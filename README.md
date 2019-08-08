@@ -82,6 +82,7 @@ A curated list of software and resources for exploring and visualizing (browsing
 - [Transcriptome Dynamics for CD4+ T-cells in Experimental Malaria](https://malariaimmunology.shinyapps.io/cd4_dynamics/), developed as a companion to https://www.biorxiv.org/content/10.1101/675967v1
 - [VisCello](https://cello.shinyapps.io/celegans/) for C. elegans embryogenesis, accompanying [https://www.biorxiv.org/content/10.1101/565549v2](https://www.biorxiv.org/content/10.1101/565549v2), with source code available at [https://github.com/qinzhu/VisCello](https://github.com/qinzhu/VisCello)
 - [VirtualCytometry](https://www.grnpedia.org/cytometry/) from https://netbiolab.org/, focused on immune cell differentiation
+- [Vitessce](http://vitessce.io), a visual integration tool for exploration of (spatial) single-cell experiment data. Some demos are available, e.g. http://vitessce.io/?dataset=linnarsson-2018 - source code is available at https://github.com/hubmapconsortium/vitessce
 - [WIlsON](https://cran.r-project.org/web/packages/wilson/), described in https://academic.oup.com/bioinformatics/article/35/6/1055/5078467; demo here http://loosolab.mpi-bn.mpg.de
 - [Xena Browser](https://xenabrowser.net), the UCSC Xena Functional Genomics Explorer
 - [Zebrafish single cell development atlas](https://kleintools.hms.harvard.edu/paper_websites/wagner_zebrafish_timecourse2018/mainpage.html), related to the publication in http://science.sciencemag.org/content/360/6392/981
