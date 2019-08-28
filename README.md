@@ -75,6 +75,7 @@ A curated list of software and resources for exploring and visualizing (browsing
 - [SCV (Single Cell Viewer)](https://github.com/neuhausi/single-cell-viewer), preprint at https://www.biorxiv.org/content/10.1101/664789v2
 - [Seattle Organismal Molecular Atlases](http://atlas.gs.washington.edu/hub/), the SOMA Data Portal
 - [shinyMethyl](https://www.bioconductor.org/packages/release/bioc/html/shinyMethyl.html), Interactive visualization for Illumina methylation arrays
+- [Single Cell Explorer](http://www.singlecellexplorer.org), published in https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-6053-y. Demos available at http://54.159.6.229:8000/, source code at https://github.com/d-feng/scExplorer
 - [Single Cell Expression Atlas](https://www.ebi.ac.uk/gxa/sc/home), where the June 2019 release contains 99 single cell RNA-Seq studies (total: 882958 cells), across 11 different species
 - [Single Cell Portal](https://portals.broadinstitute.org/single_cell) at the Broad Institute; example here: https://portals.broadinstitute.org/single_cell/study/SCP43/atlas-of-human-blood-dendritic-cells-and-monocytes#study-visualize - Source code available here: https://github.com/broadinstitute/single_cell_portal_core
 - [Slide-seq Portal](https://portals.broadinstitute.org/single_cell/study/SCP354/slide-seq-study), companion to https://science.sciencemag.org/content/363/6434/1463. Code available at https://github.com/broadchenf/Slideseq/tree/master/BeadSeq%20Code
