@@ -60,6 +60,7 @@ A curated list of software and resources for exploring and visualizing (browsing
 - [Mouse Visual Cortex Explorer](http://greenberg.hms.harvard.edu/project/gene-database/), related to the manuscript https://doi.org/10.1038/s41593-017-0029-5 (Hrvatin et al., 2018)
 - [Multiple sclerosis gene atlas](http://msatlas.compbio.sdu.dk), companion to https://www.biorxiv.org/content/10.1101/584920v1
 - [NCI Patient Derived Model Repository](https://pdmdb.cancer.gov/pls/apex/f?p=101:1:0::NO) expression and whole exome data on >350 patients xenografts and patient tissue samples.
+- [Neuroexpresso](http://neuroexpresso.org), for the analysis of brain cell type expression profiles. Source available here, https://github.com/PavlidisLab/neuroexpresso; publication: https://www.eneuro.org/content/4/6/ENEURO.0212-17.2017
 - [PAWER](https://biit.cs.ut.ee/pawer/), a software tool for analysing protein microarray data - described in publication: https://www.biorxiv.org/content/10.1101/692905v1
 - [PEAC RNA-seq](https://peac.hpc.qmul.ac.uk), for exploring RNA-seq of early rheumatoid arthritis individuals and their clinical data. Linked to the publication https://doi.org/10.1016/j.celrep.2019.07.091
 - [Planaria Single Cell Atlas](https://shiny.mdc-berlin.de/psca/), related to the publication available at http://science.sciencemag.org/content/360/6391/eaaq1723
