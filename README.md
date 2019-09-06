@@ -16,6 +16,7 @@ A curated list of software and resources for exploring and visualizing (browsing
 - [ASAP](https://asap.epfl.ch), Automated Single-cell Analysis Pipeline (https://doi.org/10.1093/bioinformatics/btx337)
 - [BioTuring Browser](http://bioturing.com/product/bbrowser), standalone browser from BioTuring
 - [Brain Immune Atlas](http://www.brainimmuneatlas.org/), a resource and visualization tool for assessing various single-cell RNA sequencing datasets that together capture the diversity of the brain immune compartment. Publication related: https://www.nature.com/articles/s41593-019-0393-4; source code: https://github.com/saeyslab/brainimmuneatlas/
+- [Brain RNA-Seq](http://www.brainrnaseq.org), from the Barres Lab. Allows to explore different brain-related RNA-seq datasets
 - [BRAIN-SAT](http://brainsat.eu), for interactive analysis of glia transcriptome studies - publication available here: https://www.biorxiv.org/content/10.1101/750000v1, successor to GOAD
 - [cBioPortal](https://www.cbioportal.org), cBioPortal for Cancer Genomics
 - [cellBrowser](https://cells.ucsc.edu/), a static HTML and Javascript browser for scRNA-seq data.
