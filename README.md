@@ -51,6 +51,7 @@ A curated list of software and resources for exploring and visualizing (browsing
 - [Malaria Cell Atlas](https://www.sanger.ac.uk/science/tools/mca/mca/), to explore single parasite transcriptomes. Publication here: https://science.sciencemag.org/content/365/6455/eaaw2619
 - [Mammary Gland Development](https://marionilab.cruk.cam.ac.uk/mammaryGland/), companion to https://www.nature.com/articles/s41467-017-02001-5
 - [MERmaid](https://jef.works/MERmaid/), static HTML and Javascript browser for multiplexed FISH (MERFISH) data.
+- [MicrobiomeDB](https://microbiomedb.org/mbio/app/), for exploring a large number of microbiome datasets. Original publication: https://academic.oup.com/nar/article/46/D1/D684/4584629
 - [Microglia Single Cell Atlas](http://www.microgliasinglecell.com), from the Stevens Lab. Related to manuscript https://www.cell.com/immunity/fulltext/S1074-7613(18)30485-0
 - [Morpheus](https://software.broadinstitute.org/morpheus/), from the Broad Institute
 - [Mousebrain.org](http://mousebrain.org), an atlas of cell types from the Linnarsson Lab - Manuscript: https://www.sciencedirect.com/science/article/pii/S009286741830789X
