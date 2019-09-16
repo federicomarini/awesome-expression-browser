@@ -15,6 +15,7 @@ A curated list of software and resources for exploring and visualizing (browsing
 - [ALS Spatiotemporal gene expression Atlas](https://als-st.nygenome.org), companion to the MS http://science.sciencemag.org/content/364/6435/89
 - [ASAP](https://asap.epfl.ch), Automated Single-cell Analysis Pipeline (https://doi.org/10.1093/bioinformatics/btx337)
 - [BioTuring Browser](http://bioturing.com/product/bbrowser), standalone browser from BioTuring
+- [Blood RNAexpress Atlas](https://blueprint.haem.cam.ac.uk/bloodatlas/), composed of two separate browsers, for [mRNA](https://blueprint.haem.cam.ac.uk/mRNA/) and [miRNA](https://blueprint.haem.cam.ac.uk/micro/), with the same functionality to visualize expression values across samples from the BLUEPRINT project. Publication here: https://www.biorxiv.org/content/10.1101/764613v1?rss=1
 - [Brain Cell RNA-seq Browser](http://jiaqianwulab.org/braincell/RNASeq.html) from the Jiaqian Wu Lab, related to publication in https://www.jneurosci.org/content/34/36/11929.short
 - [Brain Immune Atlas](http://www.brainimmuneatlas.org/), a resource and visualization tool for assessing various single-cell RNA sequencing datasets that together capture the diversity of the brain immune compartment. Publication related: https://www.nature.com/articles/s41593-019-0393-4; source code: https://github.com/saeyslab/brainimmuneatlas/
 - [Brain RNA-Seq](http://www.brainrnaseq.org), from the Barres Lab. Allows to explore different brain-related RNA-seq datasets
