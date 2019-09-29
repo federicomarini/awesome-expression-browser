@@ -11,7 +11,7 @@ A curated list of software and resources for exploring and visualizing (browsing
 - [AMP RA](https://immunogenomics.io/ampra), publicly available RNA-seq and CyTOF for human synovial tissue from patients with rheumatoid arthritis (RA) or osteoarthritis (OA), visualized with Shiny. [bioRxiv](https://doi.org/10.1101/351130)
 - [AMP SLE](https://immunogenomics.io/ampsle), publicly available RNA-seq for human kidney biopsies from patients with systemic lupus erythematosus (SLE) patients, visualized with Shiny. [bioRxiv](https://doi.org/10.1101/363051)
 - [adultHSPC10X](https://gottgens-lab.stemcells.cam.ac.uk/adultHSPC10X/) as a companion to http://www.bloodjournal.org/content/early/2018/03/23/blood-2017-12-821413 
-- [Allen Brain Atlases](http://portal.brain-map.org), Allen Brain Atlases and Data (from the Allen Institute)
+- [Allen Brain Atlases](http://portal.brain-map.org), Allen Brain Atlases and Data (from the Allen Institute) - for example, referred to in this recent publication on whole brain spatial transcriptomics (https://www.biorxiv.org/content/10.1101/784181v1)
 - [ALS Spatiotemporal gene expression Atlas](https://als-st.nygenome.org), companion to the MS http://science.sciencemag.org/content/364/6435/89
 - [ASAP](https://asap.epfl.ch), Automated Single-cell Analysis Pipeline (https://doi.org/10.1093/bioinformatics/btx337)
 - [BioTuring Browser](http://bioturing.com/product/bbrowser), standalone browser from BioTuring
