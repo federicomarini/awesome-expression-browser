@@ -21,7 +21,6 @@ A curated list of software and resources for exploring and visualizing (browsing
 - [Brain RNA-Seq](http://www.brainrnaseq.org), from the Barres Lab. Allows to explore different brain-related RNA-seq datasets
 - [BRAIN-SAT](http://brainsat.eu), for interactive analysis of glia transcriptome studies - publication available here: https://www.biorxiv.org/content/10.1101/750000v1, successor to GOAD
 - [cBioPortal](https://www.cbioportal.org), cBioPortal for Cancer Genomics
-- [cellBrowser](https://cells.ucsc.edu/), a static HTML and Javascript browser for scRNA-seq data.
 - [cellxgene](https://github.com/chanzuckerberg/cellxgene), deployed e.g. for the Tabula Muris (http://tabulamuris.cxg.czi.technology) - a simpler browser is available at https://tabula-muris.ds.czbiohub.org. Another example of this in action is http://mouse.retina.gofflab.org, for the Developing Mouse Retina https://doi.org/10.1016/j.neuron.2019.04.010
 - [cerebro](https://github.com/romanhaa/Cerebro), Cell Report Browser, interactive application for exploration of scRNA-seq data. [bioRxiv](https://www.biorxiv.org/content/10.1101/631705v1).
 - [ChickHeartAtlas](http://www.biomedatlas.org/ChickHeartAtlas/HH12/chick_heart_gene_expression.html), a 3D molecular atlas of the chick embryonic heart in support to the data of https://www.biorxiv.org/content/10.1101/609032v1
@@ -93,6 +92,7 @@ A curated list of software and resources for exploring and visualizing (browsing
 - [ST Viewer](https://github.com/SpatialTranscriptomicsResearch/st_viewer), a GUI tool for easy and smooth visualisation and analysis of Spatial Transcriptomics datasets. Publication at https://academic.oup.com/bioinformatics/article/35/6/1058/5078471
 - [TCGABrowser](http://tcgabrowser.ethz.ch:3838/PROD/), with source code available at https://github.com/pcheng84/TCGAbrowser/
 - [Transcriptome Dynamics for CD4+ T-cells in Experimental Malaria](https://malariaimmunology.shinyapps.io/cd4_dynamics/), developed as a companion to https://www.biorxiv.org/content/10.1101/675967v1
+- [UCSC Cell Browser](https://cells.ucsc.edu/), a static HTML and Javascript browser for scRNA-seq data. Documentation at https://cellbrowser.readthedocs.io, described also in https://www.ncbi.nlm.nih.gov/pubmed/30407534
 - [VDJView](https://bitbucket.org/kirbyvisp/vdjview), for analyzing immune single cell multi-omics data. Preprint available at https://www.biorxiv.org/content/10.1101/613083v2.full
 - [VisCello](https://cello.shinyapps.io/celegans/) for C. elegans embryogenesis, accompanying [https://www.biorxiv.org/content/10.1101/565549v2](https://www.biorxiv.org/content/10.1101/565549v2), with source code available at [https://github.com/qinzhu/VisCello](https://github.com/qinzhu/VisCello)
 - [VirtualCytometry](https://www.grnpedia.org/cytometry/) from https://netbiolab.org/, focused on immune cell differentiation
