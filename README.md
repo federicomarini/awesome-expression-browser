@@ -10,7 +10,7 @@ A curated list of software and resources for exploring and visualizing (browsing
 
 - [AMP RA](https://immunogenomics.io/ampra), publicly available RNA-seq and CyTOF for human synovial tissue from patients with rheumatoid arthritis (RA) or osteoarthritis (OA), visualized with Shiny. [bioRxiv](https://doi.org/10.1101/351130)
 - [AMP SLE](https://immunogenomics.io/ampsle), publicly available RNA-seq for human kidney biopsies from patients with systemic lupus erythematosus (SLE) patients, visualized with Shiny. [bioRxiv](https://doi.org/10.1101/363051)
-- [adultHSPC10X](https://gottgens-lab.stemcells.cam.ac.uk/adultHSPC10X/) as a companion to http://www.bloodjournal.org/content/early/2018/03/23/blood-2017-12-821413 
+- [adultHSPC10X](https://gottgens-lab.stemcells.cam.ac.uk/adultHSPC10X/) as a companion to https://doi.org/10.1182/blood-2017-12-821413
 - [Allen Brain Atlases](http://portal.brain-map.org), Allen Brain Atlases and Data (from the Allen Institute) - for example, referred to in this recent publication on whole brain spatial transcriptomics (https://www.biorxiv.org/content/10.1101/784181v1)
 - [ALS Spatiotemporal gene expression Atlas](https://als-st.nygenome.org), companion to the MS http://science.sciencemag.org/content/364/6435/89
 - [ASAP](https://asap.epfl.ch), Automated Single-cell Analysis Pipeline (https://doi.org/10.1093/bioinformatics/btx337)
@@ -21,7 +21,7 @@ A curated list of software and resources for exploring and visualizing (browsing
 - [Brain RNA-Seq](http://www.brainrnaseq.org), from the Barres Lab. Allows to explore different brain-related RNA-seq datasets
 - [BRAIN-SAT](http://brainsat.eu), for interactive analysis of glia transcriptome studies - publication available here: https://www.biorxiv.org/content/10.1101/750000v1, successor to GOAD
 - [cBioPortal](https://www.cbioportal.org), cBioPortal for Cancer Genomics
-- [cellxgene](https://github.com/chanzuckerberg/cellxgene), deployed e.g. for the Tabula Muris (http://tabulamuris.cxg.czi.technology) - a simpler browser is available at https://tabula-muris.ds.czbiohub.org. Another example of this in action is http://mouse.retina.gofflab.org, for the Developing Mouse Retina https://doi.org/10.1016/j.neuron.2019.04.010
+- [cellxgene](https://github.com/chanzuckerberg/cellxgene), deployed e.g. for the Tabula Muris (https://tabula-muris-senis.ds.czbiohub.org) - a simpler browser is available at https://tabula-muris.ds.czbiohub.org. Another example of this in action is http://mouse.retina.gofflab.org, for the Developing Mouse Retina https://doi.org/10.1016/j.neuron.2019.04.010
 - [cerebro](https://github.com/romanhaa/Cerebro), Cell Report Browser, interactive application for exploration of scRNA-seq data. [bioRxiv](https://www.biorxiv.org/content/10.1101/631705v1).
 - [ChickHeartAtlas](http://www.biomedatlas.org/ChickHeartAtlas/HH12/chick_heart_gene_expression.html), a 3D molecular atlas of the chick embryonic heart in support to the data of https://www.biorxiv.org/content/10.1101/609032v1
 - [CoDEx](Cortical Development Expression Viewer), available at http://geschwindlab.dgsom.ucla.edu/pages/codexviewer (redirects to http://solo.bmap.ucla.edu/shiny/webapp/). Publication: https://doi.org/10.1016/j.neuron.2019.06.011
@@ -47,7 +47,7 @@ A curated list of software and resources for exploring and visualizing (browsing
 - [iS-CellR](https://github.com/immcore/iS-CellR), for analysing and visualising scRNA-seq data. R Shiny app. Manuscript available at https://academic.oup.com/bioinformatics/article/34/24/4305/5048937
 - [iSEE](https://bioconductor.org/packages/release/bioc/html/iSEE.html) - Interactive SummarizedExperiment Explorer (dev version at https://github.com/csoneson/iSEE), with custom panels (https://github.com/kevinrue/iSEE_custom). Publication available at https://f1000research.com/articles/7-741/v1
 - [Loupe Cell Browser](https://support.10xgenomics.com/single-cell-gene-expression/software/visualization/latest/what-is-loupe-cell-browser), from 10x Genomics
-- [Lung Aging Atlas](http://146.107.176.18:3838/MLAA_backup/), reachable from https://theislab.github.io/LungAgingAtlas/ and linked to this publication: https://www.nature.com/articles/s41467-019-08831-9
+- [Lung Aging Atlas](http://146.107.176.18:3838/MLAA_backup), reachable from https://theislab.github.io/LungAgingAtlas/ and linked to this publication: https://www.nature.com/articles/s41467-019-08831-9
 - [Malaria Cell Atlas](https://www.sanger.ac.uk/science/tools/mca/mca/), to explore single parasite transcriptomes. Publication here: https://science.sciencemag.org/content/365/6455/eaaw2619
 - [Mammary Gland Development](https://marionilab.cruk.cam.ac.uk/mammaryGland/), companion to https://www.nature.com/articles/s41467-017-02001-5
 - [MERmaid](https://jef.works/MERmaid/), static HTML and Javascript browser for multiplexed FISH (MERFISH) data.
@@ -76,7 +76,7 @@ A curated list of software and resources for exploring and visualizing (browsing
 - [RNA-Seq Viewer](https://github.com/NCBI-Hackathons/rnaseqview) described in https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5605993/, and based on the [ideogram.js](https://github.com/eweitz/ideogram) library
 - [scClustViz](https://baderlab.github.io/scClustViz/) - focused on exploring clustering results, paper here: https://f1000research.com/articles/7-1522/v2
 - [scfind](https://scfind.sanger.ac.uk) for fast searches of large collections of single cell data - source code available here: https://github.com/hemberg-lab/scfind, described in the publication https://www.biorxiv.org/content/10.1101/788596v1
-- [SCPortalen](http://single-cell.clst.riken.jp), a single-cell centric database. Published at https://doi.org/10.1093/nar/gkx949s
+- [SCPortalen](http://single-cell.clst.riken.jp), a single-cell centric database. Published at https://doi.org/10.1093/nar/gkx949
 - [scRNASeqDB](https://bioinfo.uth.edu/scrnaseqdb), a database for RNA-Seq gene expression profiles in human single cells. Publication https://www.mdpi.com/2073-4425/8/12/368, available at https://bioinfo.uth.edu/scrnaseqdb/
 - [SeuratWizard](https://github.com/nasqar/SeuratWizard) - web-based interactive application to perform a guided single-cell RNA-seq data analysis and clustering based on Seurat. Based on the Nasqar platform (http://nasqar.abudhabi.nyu.edu)
 - [SeuratV3Wizard](https://github.com/nasqar/seuratv3wizard) - successor of `SeuratWizard` (above) for Seurat v3
@@ -90,7 +90,7 @@ A curated list of software and resources for exploring and visualizing (browsing
 - [Single Cell Expression Atlas](https://www.ebi.ac.uk/gxa/sc/home), where the June 2019 release contains 99 single cell RNA-Seq studies (total: 882958 cells), across 11 different species. Publication: https://academic.oup.com/nar/article/47/D1/D711/5144130
 - [Single Cell Portal](https://portals.broadinstitute.org/single_cell) at the Broad Institute; example here: https://portals.broadinstitute.org/single_cell/study/SCP43/atlas-of-human-blood-dendritic-cells-and-monocytes#study-visualize - Source code available here: https://github.com/broadinstitute/single_cell_portal_core
 - [Slide-seq Portal](https://portals.broadinstitute.org/single_cell/study/SCP354/slide-seq-study), companion to https://science.sciencemag.org/content/363/6434/1463. Code available at https://github.com/broadchenf/Slideseq/tree/master/BeadSeq%20Code
-- [Spaniel](https://rachelqueen1.github.io/Spaniel/), designed to visualise results of Spatial Transcriptomics experiments; publication here https://www.biorxiv.org/content/10.1101/619197v1
+- [Spaniel](https://bioconductor.org/packages/Spaniel/), designed to visualise results of Spatial Transcriptomics experiments; publication here https://www.biorxiv.org/content/10.1101/619197v1
 - [ST Viewer](https://github.com/SpatialTranscriptomicsResearch/st_viewer), a GUI tool for easy and smooth visualisation and analysis of Spatial Transcriptomics datasets. Publication at https://academic.oup.com/bioinformatics/article/35/6/1058/5078471
 - [TCGABrowser](http://tcgabrowser.ethz.ch:3838/PROD/), with source code available at https://github.com/pcheng84/TCGAbrowser/
 - [Transcriptome Dynamics for CD4+ T-cells in Experimental Malaria](https://malariaimmunology.shinyapps.io/cd4_dynamics/), developed as a companion to https://www.biorxiv.org/content/10.1101/675967v1
