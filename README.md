@@ -75,6 +75,7 @@ A curated list of software and resources for exploring and visualizing (browsing
 - [Reptilian pallium](https://public.brain.mpg.de/shiny/apps/SingleCellTranscriptomics/) More exotic species: https://brain.mpg.de/research/laurent-department/software-techniques.html
 - [RNA-Seq Viewer](https://github.com/NCBI-Hackathons/rnaseqview) described in https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5605993/, and based on the [ideogram.js](https://github.com/eweitz/ideogram) library
 - [scClustViz](https://baderlab.github.io/scClustViz/) - focused on exploring clustering results, paper here: https://f1000research.com/articles/7-1522/v2
+- [scfind](https://scfind.sanger.ac.uk) for fast searches of large collections of single cell data - source code available here: https://github.com/hemberg-lab/scfind, described in the publication https://www.biorxiv.org/content/10.1101/788596v1
 - [SeuratWizard](https://github.com/nasqar/SeuratWizard) - web-based interactive application to perform a guided single-cell RNA-seq data analysis and clustering based on Seurat. Based on the Nasqar platform (http://nasqar.abudhabi.nyu.edu)
 - [SeuratV3Wizard](https://github.com/nasqar/seuratv3wizard) - successor of `SeuratWizard` (above) for Seurat v3
 - [SCelVis](https://github.com/bihealth/scelvis), exploratory tool for preprocessed scRNA-seq data. Preprint: https://www.biorxiv.org/content/10.1101/713008v1 
