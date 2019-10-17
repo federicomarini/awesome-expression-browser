@@ -45,7 +45,7 @@ A curated list of software and resources for exploring and visualizing (browsing
 - [Human Liver Cell Atlas](http://human-liver-cell-atlas.ie-freiburg.mpg.de), related to https://dx.doi.org/10.1038/s41586-019-1373-2 - *currently not working?*
 - [iMAC](https://www.stemformatics.org/atlas), an interactive atlas to explore phenotypic differences between macrophage cells. Puiblication available at https://www.biorxiv.org/content/10.1101/719237v1
 - [Innate T cell gradient](https://immunogenomics.io/itc), low-input and single-cell RNA-seq for human T cell subsets, visualized with Shiny. [Nature Communications](https://doi.org/10.1038/s41467-019-08604-4)
-- [IPF Cell Atlas](http://ipfcellatlas.com), the Idiopathic Pulmonary Fibrosis Cell Atlas. Linked to the publication https://www.biorxiv.org/content/10.1101/753806v1
+- [IPF Cell Atlas](http://ipfcellatlas.com), the Idiopathic Pulmonary Fibrosis Cell Atlas. Linked to the publications https://www.biorxiv.org/content/10.1101/753806v1 and https://www.biorxiv.org/content/10.1101/759902v2
 - [iS-CellR](https://github.com/immcore/iS-CellR), for analysing and visualising scRNA-seq data. R Shiny app. Manuscript available at https://academic.oup.com/bioinformatics/article/34/24/4305/5048937
 - [iSEE](https://bioconductor.org/packages/release/bioc/html/iSEE.html) - Interactive SummarizedExperiment Explorer (dev version at https://github.com/csoneson/iSEE), with custom panels (https://github.com/kevinrue/iSEE_custom). Publication available at https://f1000research.com/articles/7-741/v1
 - [Loupe Cell Browser](https://support.10xgenomics.com/single-cell-gene-expression/software/visualization/latest/what-is-loupe-cell-browser), from 10x Genomics
