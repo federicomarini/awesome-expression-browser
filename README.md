@@ -80,6 +80,7 @@ A curated list of software and resources for exploring and visualizing (browsing
 - [scfind](https://scfind.sanger.ac.uk) for fast searches of large collections of single cell data - source code available here: https://github.com/hemberg-lab/scfind, described in the publication https://www.biorxiv.org/content/10.1101/788596v1
 - [SCPortalen](http://single-cell.clst.riken.jp), a single-cell centric database. Published at https://doi.org/10.1093/nar/gkx949
 - [scRNASeqDB](https://bioinfo.uth.edu/scrnaseqdb), a database for RNA-Seq gene expression profiles in human single cells. Publication https://www.mdpi.com/2073-4425/8/12/368, available at https://bioinfo.uth.edu/scrnaseqdb/
+- [scSVA](https://github.com/klarman-cell-observatory/scSVA) for Single-cell Scalable Visualization and Analytics, presented in this publication https://www.biorxiv.org/content/10.1101/512582v1 - some documentation presented as videos, e.g. https://www.youtube.com/watch?v=W_U9swh468U
 - [SeuratWizard](https://github.com/nasqar/SeuratWizard) - web-based interactive application to perform a guided single-cell RNA-seq data analysis and clustering based on Seurat. Based on the Nasqar platform (http://nasqar.abudhabi.nyu.edu)
 - [SeuratV3Wizard](https://github.com/nasqar/seuratv3wizard) - successor of `SeuratWizard` (above) for Seurat v3
 - [SCelVis](https://github.com/bihealth/scelvis), exploratory tool for preprocessed scRNA-seq data. Preprint: https://www.biorxiv.org/content/10.1101/713008v1 
