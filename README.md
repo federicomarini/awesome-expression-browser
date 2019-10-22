@@ -128,6 +128,7 @@ A curated list of software and resources for exploring and visualizing (browsing
 - Rajesh Patidar [@patidarr](https://github.com/patidarr)
 - Ming Tang [@crazyhottommy](https://github.com/crazyhottommy)
 - Michael von Papen [@mvonpapen](https://github.com/mvonpapen)
+- Igor Dolgalev [@igordot](https://github.com/igordot)
 
 
 
