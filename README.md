@@ -51,7 +51,7 @@ Credits for the backbone of the structure go to Sean Davis and his [awesome-sing
 - [IPF Cell Atlas](http://ipfcellatlas.com), the Idiopathic Pulmonary Fibrosis Cell Atlas. Linked to the publications https://www.biorxiv.org/content/10.1101/753806v1 and https://www.biorxiv.org/content/10.1101/759902v2
 - [iS-CellR](https://github.com/immcore/iS-CellR), for analysing and visualising scRNA-seq data. R Shiny app. Manuscript available at https://academic.oup.com/bioinformatics/article/34/24/4305/5048937
 - [iSEE](https://bioconductor.org/packages/release/bioc/html/iSEE.html) - Interactive SummarizedExperiment Explorer (dev version at https://github.com/csoneson/iSEE), with custom panels (https://github.com/kevinrue/iSEE_custom). Publication available at https://f1000research.com/articles/7-741/v1
-- [iSTARTRAC](http://crctcell.cancer-pku.cn/) - A Shiny web-application accompanying https://doi.org/10.1038/s41597-019-0131-5
+- [iSTARTRAC](http://crctcell.cancer-pku.cn/) - A Shiny web-application accompanying https://doi.org/10.1038/s41597-019-0131-5. Source code available at https://github.com/Japrin/STARTRAC
 - [Loupe Cell Browser](https://support.10xgenomics.com/single-cell-gene-expression/software/visualization/latest/what-is-loupe-cell-browser), from 10x Genomics
 - [Lung Aging Atlas](http://146.107.176.18:3838/MLAA_backup), reachable from https://theislab.github.io/LungAgingAtlas/ and linked to this publication: https://www.nature.com/articles/s41467-019-08831-9
 - [Malaria Cell Atlas](https://www.sanger.ac.uk/science/tools/mca/mca/), to explore single parasite transcriptomes. Publication here: https://science.sciencemag.org/content/365/6455/eaaw2619
