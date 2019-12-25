@@ -87,13 +87,12 @@ Credits for the backbone of the structure go to Sean Davis and his [awesome-sing
 - [SCPortalen](http://single-cell.clst.riken.jp), a single-cell centric database. Published at https://doi.org/10.1093/nar/gkx949
 - [scRNASeqDB](https://bioinfo.uth.edu/scrnaseqdb), a database for RNA-Seq gene expression profiles in human single cells. Publication https://www.mdpi.com/2073-4425/8/12/368, available at https://bioinfo.uth.edu/scrnaseqdb/
 - [scSVA](https://github.com/klarman-cell-observatory/scSVA) for Single-cell Scalable Visualization and Analytics, presented in this publication https://www.biorxiv.org/content/10.1101/512582v1 - some documentation presented as videos, e.g. https://www.youtube.com/watch?v=W_U9swh468U
-- [SeuratWizard](https://github.com/nasqar/SeuratWizard) - web-based interactive application to perform a guided single-cell RNA-seq data analysis and clustering based on Seurat. Based on the Nasqar platform (http://nasqar.abudhabi.nyu.edu)
-- [SeuratV3Wizard](https://github.com/nasqar/seuratv3wizard) - successor of `SeuratWizard` (above) for Seurat v3
 - [SCelVis](https://github.com/bihealth/scelvis), exploratory tool for preprocessed scRNA-seq data. Preprint: https://www.biorxiv.org/content/10.1101/713008v1 
 - [SCope](http://scope.aertslab.org/), general visualization tool for large-scale scRNA-seq datasets. Has some datasets preprocessed to showcase, allows own data (in the .loom format) to be uploaded. Source code: https://github.com/aertslab/SCope. Original publication where this is found: https://www.sciencedirect.com/science/article/pii/S0092867418307207
-- [scSVA](https://github.com/klarman-cell-observatory/scSVA), single-cell Scalable Visualization and Analytics
 - [SCV (Single Cell Viewer)](https://github.com/neuhausi/single-cell-viewer), preprint at https://www.biorxiv.org/content/10.1101/664789v2
 - [Seattle Organismal Molecular Atlases](http://atlas.gs.washington.edu/hub/), the SOMA Data Portal
+- [SeuratWizard](https://github.com/nasqar/SeuratWizard) - web-based interactive application to perform a guided single-cell RNA-seq data analysis and clustering based on Seurat. Based on the Nasqar platform (http://nasqar.abudhabi.nyu.edu)
+- [SeuratV3Wizard](https://github.com/nasqar/seuratv3wizard) - successor of `SeuratWizard` (above) for Seurat v3
 - [shinyMethyl](https://www.bioconductor.org/packages/release/bioc/html/shinyMethyl.html), Interactive visualization for Illumina methylation arrays
 - [Single Cell Explorer](http://www.singlecellexplorer.org), published in https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-6053-y. Demos available at http://54.159.6.229:8000/, source code at https://github.com/d-feng/scExplorer
 - [Single Cell Expression Atlas](https://www.ebi.ac.uk/gxa/sc/home), where the June 2019 release contains 99 single cell RNA-Seq studies (total: 882958 cells), across 11 different species. Publication: https://academic.oup.com/nar/article/47/D1/D711/5144130
