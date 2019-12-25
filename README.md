@@ -30,6 +30,7 @@ Credits for the backbone of the structure go to Sean Davis and his [awesome-sing
 - [DRSC RNA-seq Explorer](https://www.flyrnai.org/tools/rna_seq/web/showProject/1/plot_coord=0/sample_id=all) Lab website: https://www.flyrnai.org/scRNA/ https://www.biorxiv.org/content/10.1101/410423v1 + 
 - [DVEX](https://shiny.mdc-berlin.de/DVEX/) accompanying http://science.sciencemag.org/content/358/6360/194 (www.dvex.org)
 - [epiviz](http://epiviz.cbcb.umd.edu), also accessible via epivizr (http://bioconductor.org/packages/release/bioc/html/epivizr.html)
+- [Evo-devo mammalian organs](https://apps.kaessmannlab.org/evodevoapp/), a Shiny app enabling the exploration of individual gene expression profiles across organs, developmental stages and species in mammalians. Linked to the data presented in https://www.nature.com/articles/s41586-019-1338-5.
 - [Expression Atlas](https://www.ebi.ac.uk/gxa/home) for bulk RNA-seq datasets
 - [eyeIntegration](https://eyeIntegration.nei.nih.gov), all publicly available human eye RNA-seq datasets reprocessed and made available with a reactive Shiny app
 - [FASTGenomics](https://fastgenomics.org), an online platform to share single-cell RNA sequencing data and analyses using reproducible workflows. Users can upload their own data and generate reproducible workflows ([Scholz et al. 2018](https://doi.org/10.1101/272476)). GitHub: [@fastgenomics](https://github.com/fastgenomics). A free demo instance is reachable at https://prod.fastgenomics.org/ (allows anonymous login)
