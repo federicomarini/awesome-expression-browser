@@ -113,6 +113,8 @@ Credits for the backbone of the structure go to Sean Davis and his [awesome-sing
 - [Transcriptome Dynamics for CD4+ T-cells in Experimental Malaria](https://malariaimmunology.shinyapps.io/cd4_dynamics/), developed as a companion to https://www.biorxiv.org/content/10.1101/675967v1
 - [UCSC Cell Browser](https://cells.ucsc.edu/), a static HTML and Javascript browser for scRNA-seq data. Documentation at https://cellbrowser.readthedocs.io, described also in https://www.ncbi.nlm.nih.gov/pubmed/30407534
 - [VDJView](https://bitbucket.org/kirbyvisp/vdjview), for analyzing immune single cell multi-omics data. Preprint available at https://www.biorxiv.org/content/10.1101/613083v2.full
+- [Vidjil](http://www.vidjil.org/), for the visualization of High-Throughput Analysis
+of V(D)J Immune Repertoire. Demo app here http://app.vidjil.org/, source code of the releases in http://www.vidjil.org/releases/
 - [VisCello](https://cello.shinyapps.io/celegans/) for C. elegans embryogenesis, accompanying [https://www.biorxiv.org/content/10.1101/565549v2](https://www.biorxiv.org/content/10.1101/565549v2), with source code available at [https://github.com/qinzhu/VisCello](https://github.com/qinzhu/VisCello)
 - [VirtualCytometry](https://www.grnpedia.org/cytometry/) from https://netbiolab.org/, focused on immune cell differentiation
 - [Vitessce](http://vitessce.io), a visual integration tool for exploration of (spatial) single-cell experiment data. Some demos are available, e.g. http://vitessce.io/?dataset=linnarsson-2018 - source code is available at https://github.com/hubmapconsortium/vitessce
