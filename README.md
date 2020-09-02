@@ -58,6 +58,7 @@ Credits for the backbone of the structure go to Sean Davis and his [awesome-sing
 - [iSTARTRAC](http://crctcell.cancer-pku.cn/) - A Shiny web-application accompanying https://doi.org/10.1038/s41597-019-0131-5. Source code available at https://github.com/Japrin/STARTRAC
 - [Loupe Cell Browser](https://support.10xgenomics.com/single-cell-gene-expression/software/visualization/latest/what-is-loupe-cell-browser), from 10x Genomics
 - [Lung Aging Atlas](http://146.107.176.18:3838/MLAA_backup), reachable from https://theislab.github.io/LungAgingAtlas/ and linked to this publication: https://www.nature.com/articles/s41467-019-08831-9
+- [Magellan](https://digital.bihealth.org/): a web application for the display and analysis of next-generation sequencing data with a focus on COVID-19. Single cell maps are provided for a number of datasets in the dedicated tab.
 - [Malaria Cell Atlas](https://www.sanger.ac.uk/science/tools/mca/mca/), to explore single parasite transcriptomes. Publication here: https://science.sciencemag.org/content/365/6455/eaaw2619
 - [Mammary Gland Development](https://marionilab.cruk.cam.ac.uk/mammaryGland/), companion to https://www.nature.com/articles/s41467-017-02001-5
 - [MERmaid](https://jef.works/MERmaid/), static HTML and Javascript browser for multiplexed FISH (MERFISH) data.
