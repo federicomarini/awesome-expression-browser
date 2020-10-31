@@ -125,7 +125,7 @@ Credits for the backbone of the structure go to Sean Davis and his [awesome-sing
 - [TCGABrowser](http://tcgabrowser.ethz.ch:3838/PROD/), with source code available at https://github.com/pcheng84/TCGAbrowser/
 - [TILAtlas](http://TILAtlas.org), the transcriptomic landscape of tumor-infiltrating CD8 lymphocytes in B16 melanoma tumors with single-cell RNA-Seq. Based on iSEE. Publication available at https://www.tandfonline.com/doi/full/10.1080/2162402X.2020.1737369 - alternative address: https://tilatlas.shinyapps.io/B16_CD8TIL_10X/
 - [Transcriptome Dynamics for CD4+ T-cells in Experimental Malaria](https://malariaimmunology.shinyapps.io/cd4_dynamics/), developed as a companion to https://www.biorxiv.org/content/10.1101/675967v1
-- [UCSC Cell Browser](https://cells.ucsc.edu/), a static HTML and Javascript browser for scRNA-seq data. Documentation at https://cellbrowser.readthedocs.io, described also in https://www.ncbi.nlm.nih.gov/pubmed/30407534
+- [UCSC Cell Browser](https://cells.ucsc.edu/), a static HTML and Javascript browser for scRNA-seq data. Documentation at https://cellbrowser.readthedocs.io. Preprint available at https://www.biorxiv.org/content/10.1101/2020.10.30.361162v1, described also in https://www.ncbi.nlm.nih.gov/pubmed/30407534
 - [VDJView](https://bitbucket.org/kirbyvisp/vdjview), for analyzing immune single cell multi-omics data. Preprint available at https://www.biorxiv.org/content/10.1101/613083v2.full
 - [Vidjil](http://www.vidjil.org/), for the visualization of High-Throughput Analysis
 of V(D)J Immune Repertoire. Demo app here http://app.vidjil.org/, source code of the releases in http://www.vidjil.org/releases/
