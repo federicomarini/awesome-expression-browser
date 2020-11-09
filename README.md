@@ -92,6 +92,7 @@ Credits for the backbone of the structure go to Sean Davis and his [awesome-sing
 - [PanglaoDB](https://panglaodb.se), a database for the exploration of single cell RNA sequencing experiments from mouse and human. Publication at https://academic.oup.com/database/article/doi/10.1093/database/baz046/5427041, GitHub repo: https://github.com/oscar-franzen/PanglaoDB (not the source code of the resource itself)
 - [PAWER](https://biit.cs.ut.ee/pawer/), a software tool for analysing protein microarray data - described in publication: https://www.biorxiv.org/content/10.1101/692905v1
 - [PEAC RNA-seq](https://peac.hpc.qmul.ac.uk), for exploring RNA-seq of early rheumatoid arthritis individuals and their clinical data. Linked to the publication https://doi.org/10.1016/j.celrep.2019.07.091
+- [plae](https://plae.nei.nih.gov/), the PLatform for Analysis of scEiad (single cell Eye in a Disk), with source code available at https://github.com/davemcg/plaeApp
 - [Planaria Single Cell Atlas](https://shiny.mdc-berlin.de/psca/), related to the publication available at http://science.sciencemag.org/content/360/6391/eaaq1723
 - [Planarian Digiworm](https://digiworm.wi.mit.edu), companion to http://science.sciencemag.org/content/360/6391/eaaq1736.full
 - [pRolocGUI](http://bioconductor.org/packages/release/bioc/html/pRolocGUI.html), for interactive visualisation of spatial proteomics data
