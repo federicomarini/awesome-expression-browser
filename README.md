@@ -70,6 +70,7 @@ Credits for the backbone of the structure go to Sean Davis and his [awesome-sing
 - [Mammary Gland Development](https://marionilab.cruk.cam.ac.uk/mammaryGland/), companion to https://www.nature.com/articles/s41467-017-02001-5
 - [MERmaid](https://jef.works/MERmaid/), static HTML and Javascript browser for multiplexed FISH (MERFISH) data.
 - [MicrobiomeDB](https://microbiomedb.org/mbio/app/), for exploring a large number of microbiome datasets. Original publication: https://academic.oup.com/nar/article/46/D1/D684/4584629
+- [MicrobiomeExplorer](http://www.bioconductor.org/packages/release/bioc/html/microbiomeExplorer.html), an R package + shiny app for the analysis and visualization of microbial communities - described in https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaa838/5909986, source code available at https://github.com/zoecastillo/microbiomeExplorer
 - [Microglia Orthologoues Viewer](https://amitlab.shinyapps.io/Orthologous_viewer/), for having easy data exploration and access to the resource presented in https://doi.org/10.1016/j.cell.2019.11.010
 - [Microglia Single Cell Atlas](http://www.microgliasinglecell.com), from the Stevens Lab. Related to manuscript https://doi.org/10.1016/j.immuni.2018.11.004
 - [Morpheus](https://software.broadinstitute.org/morpheus/), from the Broad Institute
