@@ -107,6 +107,7 @@ Credits for the backbone of the structure go to Sean Davis and his [awesome-sing
 - [Reptilian pallium](https://public.brain.mpg.de/shiny/apps/SingleCellTranscriptomics/) More exotic species: https://brain.mpg.de/research/laurent-department/software-techniques.html
 - [RNA-Seq Viewer](https://github.com/NCBI-Hackathons/rnaseqview) described in https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5605993/, and based on the [ideogram.js](https://github.com/eweitz/ideogram) library
 - [RNA_vs_protein](https://tsomics.shinyapps.io/RNA_vs_protein/), to explore the quantitative proteome map of the human body, related to the publication https://www.biorxiv.org/content/10.1101/797373v2
+- [scbrowse](https://github.com/BIMSBbioinfo/scbrowse) - a single-cell ATAC-seq browser that enables to simultaneously explore a 2D cell-embedding and accessibility profiles across the genome. Live example: https://scbrowse.mdc-berlin.de
 - [scClustViz](https://baderlab.github.io/scClustViz/) - focused on exploring clustering results, paper here: https://f1000research.com/articles/7-1522/v2
 - [scfind](https://scfind.sanger.ac.uk) for fast searches of large collections of single cell data - source code available here: https://github.com/hemberg-lab/scfind, described in the publication https://www.biorxiv.org/content/10.1101/788596v1
 - [SCPortalen](http://single-cell.clst.riken.jp), a single-cell centric database. Published at https://doi.org/10.1093/nar/gkx949
@@ -165,6 +166,7 @@ of V(D)J Immune Repertoire. Demo app here http://app.vidjil.org/, source code of
 - Ming Tang [@crazyhottommy](https://github.com/crazyhottommy)
 - Michael von Papen [@mvonpapen](https://github.com/mvonpapen)
 - Igor Dolgalev [@igordot](https://github.com/igordot)
+- Wolfgang Kopp [@wkopp](https://github.com/wkopp)
 
 <a href="https://github.com/federicomarini/awesome-expression-browser/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=federicomarini/awesome-expression-browser" />
