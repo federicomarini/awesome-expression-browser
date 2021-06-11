@@ -168,6 +168,7 @@ of V(D)J Immune Repertoire. Demo app here http://app.vidjil.org/, source code of
 - Michael von Papen [@mvonpapen](https://github.com/mvonpapen)
 - Igor Dolgalev [@igordot](https://github.com/igordot)
 - Wolfgang Kopp [@wkopp](https://github.com/wkopp)
+- Ruth Kristianingsih [@ruthkr](https://github.com/ruthkr)
 
 <a href="https://github.com/federicomarini/awesome-expression-browser/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=federicomarini/awesome-expression-browser" />
