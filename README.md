@@ -37,6 +37,7 @@ Credits for the backbone of the structure go to Sean Davis and his [awesome-sing
 - [CRI iATLAS](https://www.cri-iatlas.org/), an interactive portal for immuno-oncology research. Source code available at https://github.com/CRI-iAtlas/shiny-iatlas, with the publication describing it at https://f1000research.com/articles/9-1028/v1
 - [DropViz](http://dropviz.org), for exploring the Mouse Brain (Macosko & McCarroll Labs). Source code is at https://github.com/broadinstitute/dropviz, publication related to this is https://www.sciencedirect.com/science/article/pii/S0092867418309553
 - [DRSC RNA-seq Explorer](https://www.flyrnai.org/tools/rna_seq/web/showProject/1/plot_coord=0/sample_id=all) Lab website: https://www.flyrnai.org/scRNA/ https://www.biorxiv.org/content/10.1101/410423v1 + 
+- [dseqr](https://github.com/hms-dbmi/dseqr), a GUI to explore and combine scRNA-seq data. Project website available at https://docs.dseqr.com/
 - [DVEX](https://shiny.mdc-berlin.de/DVEX/) accompanying http://science.sciencemag.org/content/358/6360/194 (www.dvex.org)
 - [epiviz](http://epiviz.cbcb.umd.edu), also accessible via epivizr (http://bioconductor.org/packages/release/bioc/html/epivizr.html)
 - [Evo-devo mammalian organs](https://apps.kaessmannlab.org/evodevoapp/), a Shiny app enabling the exploration of individual gene expression profiles across organs, developmental stages and species in mammalians. Linked to the data presented in https://www.nature.com/articles/s41586-019-1338-5.
