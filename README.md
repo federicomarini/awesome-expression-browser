@@ -133,6 +133,7 @@ Credits for the backbone of the structure go to Sean Davis and his [awesome-sing
 - [Spaniel](https://bioconductor.org/packages/Spaniel/), designed to visualise results of Spatial Transcriptomics experiments; publication here https://www.biorxiv.org/content/10.1101/619197v1
 - [SpatialDB](https://www.spatialomics.org/SpatialDB/), a database for spatially resolved transcriptomes. Described in the publication available at https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkz934/5622703
 - [spatialLIBD](http://research.libd.org/spatialLIBD/), a package and an app (http://spatial.libd.org/spatialLIBD/) to browse the LIBD human dorsolateral pre-frontal cortex (DLPFC) spatial transcriptomics data generated with the 10x Genomics Visium platform - described in the preprint https://www.biorxiv.org/content/10.1101/2020.02.28.969931v1. Source available at https://github.com/LieberInstitute/spatialLIBD
+- [Spatial Mouse Atlas](https://marionilab.cruk.cam.ac.uk/SpatialMouseAtlas), an app to browse the spatial transcriptomics SeqFISH profiling of mouse embryos during early organogenesis - described in the paper https://www.nature.com/articles/s41587-021-01006-2. App source and analysis scripts available at https://github.com/MarioniLab/SpatialMouseAtlas2020.
 - [starmapVR](https://holab-hku.github.io/starmapVR/), for VR-based visualisation of single cell spatial omic data. Source code available at https://github.com/holab-hku/starmapVR, described in the preprint https://www.biorxiv.org/content/10.1101/2020.09.01.277079v1
 - [ST Viewer](https://github.com/SpatialTranscriptomicsResearch/st_viewer), a GUI tool for easy and smooth visualisation and analysis of Spatial Transcriptomics datasets. Publication at https://academic.oup.com/bioinformatics/article/35/6/1058/5078471
 - [TCGABrowser](http://tcgabrowser.ethz.ch:3838/PROD/), with source code available at https://github.com/pcheng84/TCGAbrowser/
@@ -162,6 +163,7 @@ of V(D)J Immune Repertoire. Demo app here http://app.vidjil.org/, source code of
 - Kevin Rue-Albrecht [@kevinrue](https://github.com/kevinrue)
 - Kevin Blighe [@kevinblighe](https://github.com/kevinblighe)
 - Ben Busby [@DCGenomics](https://github.com/DCGenomics)
+- Shila Ghazanfar [@shazanfar](https://github.com/shazanfar)
 - David McGaughey [@davemcg](https://github.com/davemcg)
 - Kamil Slowikowski [@slowkow](https://github.com/slowkow)
 - Rajesh Patidar [@patidarr](https://github.com/patidarr)
