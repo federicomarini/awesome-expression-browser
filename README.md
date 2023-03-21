@@ -150,7 +150,7 @@ Credits for the backbone of the structure go to Sean Davis and his [awesome-sing
 - [Vidjil](http://www.vidjil.org/), for the visualization of High-Throughput Analysis
 of V(D)J Immune Repertoire. Demo app here http://app.vidjil.org/, source code of the releases in http://www.vidjil.org/releases/
 - [VirtualCytometry](https://www.grnpedia.org/cytometry/) from https://netbiolab.org/, focused on immune cell differentiation
-- [VisCello](https://cello.shinyapps.io/celegans/) for C. elegans embryogenesis, accompanying [https://www.biorxiv.org/content/10.1101/565549v2](https://www.biorxiv.org/content/10.1101/565549v2), with source code available at [https://github.com/qinzhu/VisCello](https://github.com/qinzhu/VisCello)
+- [VisCello](https://cello.shinyapps.io/celegans/) for C. elegans embryogenesis, accompanying https://www.biorxiv.org/content/10.1101/565549v2, with source code available at https://github.com/qinzhu/VisCello
 - [VISION](https://yoseflab.github.io/VISION/), for the signature analysis and visualization for single-cell RNA-seq. Source code available at https://github.com/YosefLab/VISION, described in https://doi.org/10.1038/s41467-019-12235-0
 - [Vitessce](http://vitessce.io), a visual integration tool for exploration of (spatial) single-cell experiment data. Some demos are available, e.g. http://vitessce.io/?dataset=linnarsson-2018 - source code is available at https://github.com/hubmapconsortium/vitessce
 - [WIlsON](https://cran.r-project.org/web/packages/wilson/), described in https://academic.oup.com/bioinformatics/article/35/6/1055/5078467; demo here http://loosolab.mpi-bn.mpg.de
