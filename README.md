@@ -125,6 +125,7 @@ Credits for the backbone of the structure go to Sean Davis and his [awesome-sing
 - [SCope](http://scope.aertslab.org/), general visualization tool for large-scale scRNA-seq datasets. Has some datasets preprocessed to showcase, allows own data (in the .loom format) to be uploaded. Source code: https://github.com/aertslab/SCope. Original publication where this is found: https://www.sciencedirect.com/science/article/pii/S0092867418307207
 - [SCV (Single Cell Viewer)](https://github.com/neuhausi/single-cell-viewer), preprint at https://www.biorxiv.org/content/10.1101/664789v2
 - [scViewer](https://github.com/arpatil01/scViewer), A single-cell data viewer shiny application. Published in https://doi.org/10.3390/cells12111489
+- [scX](https://github.com/chernolabs/scX): A user-friendly tool for scRNA-seq exploration. Documentation available at https://chernolabs.github.io/scX/, related publication (preprint) at https://arxiv.org/abs/2311.00012
 - [Seattle Organismal Molecular Atlases](http://atlas.gs.washington.edu/hub/), the SOMA Data Portal
 - [SeuratWizard](https://github.com/nasqar/SeuratWizard) - web-based interactive application to perform a guided single-cell RNA-seq data analysis and clustering based on Seurat. Based on the Nasqar platform (http://nasqar.abudhabi.nyu.edu)
 - [SeuratV3Wizard](https://github.com/nasqar/seuratv3wizard) - successor of `SeuratWizard` (above) for Seurat v3
