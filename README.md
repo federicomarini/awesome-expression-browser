@@ -111,6 +111,7 @@ Credits for the backbone of the structure go to Sean Davis and his [awesome-sing
 - [ProteinPaint](https://proteinpaint.stjude.org/examples/), some general info are here: https://www.stjude.org/research/shared-resources/technology-licensing/technologies/proteinpaint-web-application-for-visualizing-genomic-data-sj-15-0021.html, original publication here: https://www.nature.com/articles/ng.3466. Used e.g. to deploy Mouse Retina Development data, https://proteinpaint.stjude.org/F/mm10/2019.mouse.retina.scRNA.html
 - [ProTrack](http://ccrcc.cptac-data-view.org), an interactive multiomics data browser for proteogenomic projects - described in the preprint https://doi.org/10.1101/2020.02.05.935650. Source code is (should be) available at https://github.com/WangLab/ProTrack-ccrcc (currently not found?)
 - [puma_gtex](https://kuijjer.shinyapps.io/puma_gtex/), a browser for exploring tissue-specific functions of miRNAs (as described in the PUMA preprint, https://www.biorxiv.org/content/10.1101/2019.12.18.874065v1)
+- [rakaia](https://rakaia.io/): Scalable in-browser expression analysis of spatial data types, https://github.com/camlab-bioml/rakaia. Available as a preprint on bioRxiv, https://www.biorxiv.org/content/10.1101/2025.08.15.670550v1
 - [Reptilian pallium](https://public.brain.mpg.de/shiny/apps/SingleCellTranscriptomics/) More exotic species: https://brain.mpg.de/research/laurent-department/software-techniques.html
 - [RNA-Seq Viewer](https://github.com/NCBI-Hackathons/rnaseqview) described in https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5605993/, and based on the [ideogram.js](https://github.com/eweitz/ideogram) library
 - [RNA_vs_protein](https://tsomics.shinyapps.io/RNA_vs_protein/), to explore the quantitative proteome map of the human body, related to the publication https://www.biorxiv.org/content/10.1101/797373v2
@@ -181,6 +182,7 @@ of V(D)J Immune Repertoire. Demo app here http://app.vidjil.org/, source code of
 - Igor Dolgalev [@igordot](https://github.com/igordot)
 - Wolfgang Kopp [@wkopp](https://github.com/wkopp)
 - Ruth Kristianingsih [@ruthkr](https://github.com/ruthkr)
+- Matt Watson[@matt-sd-watson](https://github.com/matt-sd-watson)
 
 <a href="https://github.com/federicomarini/awesome-expression-browser/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=federicomarini/awesome-expression-browser" />
